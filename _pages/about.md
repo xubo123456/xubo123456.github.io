@@ -18,6 +18,12 @@ I am an Associate Professor at Dalian University of Technology. I received my Ph
 - Dalian University of Technology, Associate Professor. _Dalian_, _China_, _Jun_. 2020 - _Present_.
 - Dalian University of Technology, Postdoctoral Researcher. _Dalian_, _China_, _Aug_. 2018 - _Jun_. 2020.
 
+# Research Areas
+- Medical Human-machine Dialogue
+- Psychological Computing
+- Session-based Recommendation
+- Learning to Rank
+
 # Services
 - Conference PC Member and Reviewer: SIGIR, ACL, ARR, AAAI
 - Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Services Computing (TSC)
