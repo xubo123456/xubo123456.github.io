@@ -42,4 +42,4 @@ I am an Associate Professor at Dalian University of Technology. I received my Ph
 
 # Services
 - Conference PC Member and Reviewer: SIGIR, ACL, ARR, AAAI
-- Journal Reviewer: 
+- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Services Computing (TSC)
