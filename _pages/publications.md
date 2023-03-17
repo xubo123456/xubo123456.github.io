@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+% Publications
 1. **Bo Xu**, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
 2. Xiaokun Zhang, **Bo Xu**, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin. Price DOES Matter!: Modeling price and interest preferences in session-based recommendation. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022: 1684-1693. (CCF-A)
 3. Xiaokun Zhang, Hongfei Lin, **Bo Xu**, Chenliang Li, Yuan Lin, Haifeng Liu, Fenglong Ma. Dynamic intent-aware iterative denoising network for session-based recommendation. Information Processing&Management, 2022, 59(3): 102936. (CCF-B)
