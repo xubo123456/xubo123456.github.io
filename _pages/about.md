@@ -39,3 +39,7 @@ I am an Associate Professor at Dalian University of Technology. I received my Ph
 18. Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Learning to rank with query-level semi-supervised autoencoders. The 26th ACM International Conference on Information and Knowledge Management, CIKM 2017: 2395-2398. (CCF-B)
 19. Bo Xu, Hongfei Lin, Yuan Lin. Assessment of learning to rank methods for query expansion. Journal of the Association for Information Science and Technology (JASIST), 2016, 67(6): 1345-1357. (CCF-B)
 20. Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Learning to rank for biomedical information retrieval. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2015: 464-469. (CCF-B)
+
+# Services
+- Conference PC Member and Reviewer: SIGIR, ACL, ARR, AAAI
+- Journal Reviewer: 
