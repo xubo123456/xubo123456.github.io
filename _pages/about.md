@@ -14,3 +14,8 @@ I am an Associate Professor at Dalian University of Technology. I received my Ph
 Dalian University of Technology, PhD in Computer Science. _Dalian_, _China_, _Sep_. 2011 - _Sep_. 2018.
 
 Dalian University of Technology, BEng in Software Engineering. _Dalian_, _China_, _Sep_. 2007 - _Jun_. 2011.
+
+# Work Experience
+Dalian University of Technology, Postdoctoral Researcher. _Dalian_, _China_, _Aug_. 2018 - _Jun_. 2020.
+
+Dalian University of Technology, Associate Professor. _Dalian_, _China_, _Jun_. 2020 - _Now_.
