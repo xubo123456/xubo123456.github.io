@@ -84,11 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Associate Professor <br /> Dalian University of Technology"
   location         : "Dalian, China"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8oG3GHQAAAAJ"
   email            : "xubo@dlut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  linkedin         :
+  dblp             :
   orcid            : "http://orcid.org/yourorcidurl"
 
 # Reading Files
