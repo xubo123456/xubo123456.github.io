@@ -86,9 +86,9 @@ author:
   location         : "Dalian, China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8oG3GHQAAAAJ"
   email            : "xubo@dlut.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  dblp             :
-  orcid            : "http://orcid.org/yourorcidurl"
+  researchgate     : "https://www.researchgate.net/profile/Bo-Xu-14?ev=hdr_xprf"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/x/Xu_0009:Bo"
+  orcid            : "https://orcid.org/0000-0001-5453-978X"
 
 # Reading Files
 include:
