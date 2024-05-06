@@ -28,4 +28,4 @@ I am an associate professor in school of computer science and technology at [Dal
 
 # Services
 - Conference PC Member and Reviewer: SIGIR, ACL, AAAI, ACM MM, DASFAA, ICME, etc.
-- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Services Computing (TSC), etc.
+- Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE/ACM TCBB, ACM TKDD, IEEE TSC, IEEE/ACM TASLP, etc.
