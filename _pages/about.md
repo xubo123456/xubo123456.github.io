@@ -10,6 +10,8 @@ redirect_from:
 
 I am an associate professor in school of computer science and technology at [Dalian University of Technology](https://en.dlut.edu.cn/). I received my PhD under the direction of Prof. Hongfei Lin at the Information Retrieval Lab. of Dalian University of Technology ([DUTIR](http://ir.dlut.edu.cn/)). I received my bachelor’s degree in school of software at Dalian University of Technology. My research interests include medical human-machine dialogue, psychological computing, large language models and other topics related to Natural Language Processing.
 
+[My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
+
 # Education
 - Dalian University of Technology, PhD in Computer Science. _Dalian_, _China_, _Sep_. 2011 - _Sep_. 2018.
 - Dalian University of Technology, BEng in Software Engineering. _Dalian_, _China_, _Sep_. 2007 - _Jun_. 2011.
