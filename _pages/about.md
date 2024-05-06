@@ -28,4 +28,4 @@ I am an associate professor in school of computer science and technology at [Dal
 
 # Services
 - Conference PC Member and Reviewer: SIGIR, ACL, AAAI, ACM MM, DASFAA, ICME, etc.
-- Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE/ACM TCBB, ACM TKDD, IEEE TSC, IEEE/ACM TASLP, etc.
+- Journal Reviewer: TPAMI, TNNLS, TCBB, TKDD, TSC, TASLP, etc.
