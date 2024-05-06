@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at Dalian University of Technology. I received my PhD under the direction of Prof. Hongfei Lin at the Information Retrieval Lab. (DUTIR),  School of Computer Science and Technology, Dalian University of Technology. My research is focused on medical human-machine dialogue, psychological computing, and other related topics in Information Retrieval and Natural Language Processing.
+I am an associate professor in school of computer science and technology at [Dalian University of Technology](https://en.dlut.edu.cn/). I received my PhD under the direction of Prof. Hongfei Lin at the Information Retrieval Lab. of Dalian University of Technology ([DUTIR](http://ir.dlut.edu.cn/)). I received my bachelor’s degree in school of software at Dalian University of Technology. My research interests include medical human-machine dialogue, psychological computing, large language models and other topics related to Natural Language Processing.
 
 # Education
 - Dalian University of Technology, PhD in Computer Science. _Dalian_, _China_, _Sep_. 2011 - _Sep_. 2018.
