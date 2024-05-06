@@ -13,19 +13,19 @@ I am an associate professor in school of computer science and technology at [Dal
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
 
 # Education
-- Dalian University of Technology, PhD in Computer Science. _Dalian_, _China_, _Sep_. 2011 - _Sep_. 2018.
-- Dalian University of Technology, BEng in Software Engineering. _Dalian_, _China_, _Sep_. 2007 - _Jun_. 2011.
+- PhD in Computer Science, Dalian University of Technology, 2011-2018.
+- BEng in Software Engineering, Dalian University of Technology, 2007-2011.
 
 # Work Experience
-- Dalian University of Technology, Associate Professor. _Dalian_, _China_, _Jun_. 2020 - _Present_.
-- Dalian University of Technology, Postdoctoral Researcher. _Dalian_, _China_, _Aug_. 2018 - _Jun_. 2020.
+- Associate Professor, Dalian University of Technology, 2020-Present.
+- Postdoc, Dalian University of Technology, 2018-2020.
 
-# Research Areas
+# Research Interest
 - Medical Human-machine Dialogue
 - Psychological Computing
 - Session-based Recommendation
-- Learning to Rank
+- Large Language Models
 
 # Services
-- Conference PC Member and Reviewer: SIGIR, ACL, ARR, AAAI
-- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Services Computing (TSC)
+- Conference PC Member and Reviewer: SIGIR'23, SIGIR'24, ACL'24, AAAI'22, AAAI'23, AAAI'24, MM'24, DASFAA'24, ICME'24
+- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Services Computing (TSC), etc.
