@@ -26,6 +26,19 @@ I am an associate professor in school of computer science and technology at [Dal
 - Session-based Recommendation
 - Large Language Models
 
-# Services
-- Conference PC Member and Reviewer: SIGIR, ACL, AAAI, ACM MM, DASFAA, ICME, etc.
-- Journal Reviewer: TPAMI, TNNLS, TCBB, TKDD, TSC, TASLP, etc.
+# Technical Program Committee Member
+- SIGIR: The International ACM Conference on Research and Development in Information Retrieval (2023/2024, CCF-A)
+- ACL: The Annual Meeting of Association for Computational Linguistics (2024, CCF-A)
+- AAAI: The Annual AAAI Conference on Artificial Intelligence (2021/2022/2023/2024, CCF-A)
+- ACM MM: ACM Multimedia Conference (2024, CCF-A)
+- DASFAA: The International Conference on Database Systems for Advanced Applications (2024, CCF-B)
+- ICME: IEEE International Conference on Multimedia & Expo (2024, CCF-B)
+
+# Journal Reviewer
+- TKDE: IEEE Transactions on Knowledge and Data Engineering
+- TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
+- TNNLS: IEEE Transactions on Neural Networks and Learning Systems
+- TCBB: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+- TKDD: ACM Transactions on Knowledge Discovery from Data
+- TSC: IEEE Transactions on Services Computing
+- TASLP: IEEE/ACM Transactions on Audio, Speech, and Language Processing
