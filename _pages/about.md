@@ -34,6 +34,9 @@ I am an associate professor in school of computer science and technology at [Dal
 - DASFAA: The International Conference on Database Systems for Advanced Applications (2024, CCF-B)
 - ICME: IEEE International Conference on Multimedia & Expo (2024, CCF-B)
 
+# Editorship
+- 2023: Guest Editor, special issue "Emerging Theory and Applications in Natural Language Processing", Electronics. (IF: 2.9, SCI)
+
 # Journal Reviewer
 - TKDE: IEEE Transactions on Knowledge and Data Engineering
 - TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -42,3 +45,8 @@ I am an associate professor in school of computer science and technology at [Dal
 - TKDD: ACM Transactions on Knowledge Discovery from Data
 - TSC: IEEE Transactions on Services Computing
 - TASLP: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+
+# Talks
+- CHIP 2023, "Privacy-Preserving Medical Dialogue Generation Based on Federated Learning", Hangzhou, October 2023. 
+- COLING 2022, "RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips", Online, October 2022.
+- 腾讯犀牛鸟中学科学人才培养计划, "Natural Language Processing", Online, June 2022.
