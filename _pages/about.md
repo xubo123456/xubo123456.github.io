@@ -12,7 +12,7 @@ I am an associate professor in school of computer science and technology at [Dal
 
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
 
-# <span style="color:red;">Technical Program Committee Member</span>
+# <span style="color:navy;">Technical Program Committee Member</span>
 - SIGIR: The International ACM Conference on Research and Development in Information Retrieval (2023/2024, CCF-A)
 - ACL: The Annual Meeting of Association for Computational Linguistics (2024, CCF-A)
 - AAAI: The Annual AAAI Conference on Artificial Intelligence (2021/2022/2023/2024, CCF-A)
