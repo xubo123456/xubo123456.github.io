@@ -67,7 +67,7 @@ author_profile: true
 
 [<span style="color:red;">专著</span>] 徐博, 面向互联网的智能信息检索技术研究, 科学出版社, 2021年, 32万字，学术专著.
 
-**Before 2021**
+**2000**
 
 [<span style="color:red;">CIKM</span>] Linlin Zong, Faqiang Miao, Xianchao Zhang, Bo Xu. Multimodal clustering via deep commonness and uniqueness mining. The 29th ACM International Conference on Information and Knowledge Management, CIKM 2020: 2357-2360. (CCF-B)
 
@@ -75,9 +75,13 @@ author_profile: true
 
 [<span style="color:red;">BIBM</span>] Tongxuan Zhang, Hongfei Lin, Bo Xu, Yuqi Ren, Zhihao Yang, Jian Wang, Xiaodong Duan. Gated iterative capsule network for adverse drug reaction detection from social media. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020: 387-390. (CCF-B)
 
+**2019**
+
 [<span style="color:red;">CJC</span>] 徐博,林鸿飞,林原,许侃.一种融合语义资源的生物医学查询理解方法[J].计算机学报,2019,42(10):2160-2174. (CCF-A)
 
 [<span style="color:red;">TCBB</span>] Bo Xu, Hongfei Lin, Yuan Lin. Learning to refine expansion terms for biomedical information retrieval using semantic resources. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019, 16(3): 954-966. (CCF-B)
+
+**Before 2018**
 
 [<span style="color:red;">TCBB</span>] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Improve biomedical information retrieval using modified learning to rank methods. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018, 15(6): 1797-1809. (CCF-B)
 
