@@ -5,11 +5,24 @@ permalink: /projects/
 author_profile: true
 ---
 
-1. 国家自然科学基金青年科学基金项目，融合领域知识的个性化医疗对话关键技术研究，2021-2023.
-2. 教育部人文社会科学项目，面向“一带一路”的国际媒体舆论倾向性研究, 2019-2022. 
-3. 辽宁省自然科学基金博士启动项目，基于用户意图挖掘的深度医疗文本匹配模型研究, 2021-2023. 
-4. 辽宁省社科规划基金项目，基于多源信息和行为图谱的短视频平台用户情绪画像研究，2022-2024.
-5. 中国博士后基金面上项目，面向查询理解的生物医学文献检索研究, 2018-2020.
-6. 认知智能重点实验室（科大讯飞）开放基金，基于用户画像和知识图谱的智能医疗问答研究，2019-2022.
-7. 计算机软件新技术国家重点实验室(南京大学)开放课题, 面向心理健康的人机对话技术研究, 2021-2023.
-8. CCF-腾讯犀牛鸟基金创新基金, 融合心理特征的医疗对话生成技术研究, 2021-2022.
+- Liaoning Provincial Natural Science Foundation Joint Fund, Key Technology Research on Psychological Computing Large Model, 2023-2025.
+
+- Subproject of National Key Research and Development Program, Key Technology for Multi-source Heterogeneous Data Analysis and Mining Oriented to Legal Supervision, 2022-2025.
+
+- Joint Project with Meetyou Research Institute, Construction of General Intelligent Dialogue Corpus for Female Users and Research on Dialogue System, 2023-2024.
+
+- Liaoning Provincial Social Science Planning Fund Project, Research on User Emotional Portrait of Short Video Platform Based on Multi-source Information and Behavior Graph, 2021-2023.
+
+- National Natural Science Foundation of China Youth Science Fund Project, Key Technology Research on Personalized Medical Dialogue Integrated with Domain Knowledge, 2021-2023.
+
+- Liaoning Provincial Natural Science Foundation Doctoral Startup Project, Research on Deep Medical Text Matching Model Based on User Intent Mining, 2021-2023.
+
+- Open Project of National Key Laboratory of Computer Software New Technology (Nanjing University), Research on Human-Computer Dialogue Technology for Mental Health, 2021-2023.
+
+- CCF-Tencent Rhino Bird Innovation Fund, Research on Medical Dialogue Generation Technology Integrated with Psychological Features, 2021-2022.
+
+- Open Fund of Key Laboratory of Cognitive Intelligence (iFlytek), Research on Intelligent Medical Q&A Based on User Profile and Knowledge Graph, 2019-2022.
+
+- Humanities and Social Sciences Project of Ministry of Education, International Media Opinion Tendency Research Oriented to "Belt and Road", 2019-2022.
+
+- China Postdoctoral Science Foundation General Project, Research on Biomedical Literature Retrieval Based on Query Understanding, 2018-2020.
