@@ -12,6 +12,16 @@ I am an associate professor in school of computer science and technology at [Dal
 
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
 
+# <span style="color:rgb(55, 126, 184);">News</span>
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our two papers were accepted by <span style="color:blue;">SIGIR 2024 (CCF-A)</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our one paper was published by <span style="color:blue;">TKDE (CCF-A; JCR Q1; IF: 8.9)</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (03/2024) Our three papers were accepted by <span style="color:blue;">COLING 2024 (CCF-B)</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">TNNLS (CCF-B; JCR Q1; IF: 10.4)</span>!
+
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
 - SIGIR: The International ACM Conference on Research and Development in Information Retrieval (2023/2024, CCF-A)
 - ACL: The Annual Meeting of Association for Computational Linguistics (2024, CCF-A)
@@ -20,10 +30,10 @@ I am an associate professor in school of computer science and technology at [Dal
 - DASFAA: The International Conference on Database Systems for Advanced Applications (2024, CCF-B)
 - ICME: IEEE International Conference on Multimedia & Expo (2024, CCF-B)
 
-# Editorship
+# <span style="color:rgb(55, 126, 184);">Editorship</span>
 - 2023: Guest Editor, special issue "Emerging Theory and Applications in Natural Language Processing", Electronics. (IF: 2.9, SCI)
 
-# Journal Reviewer
+# <span style="color:rgb(55, 126, 184);">Journal Reviewer</span>
 - TKDE: IEEE Transactions on Knowledge and Data Engineering
 - TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
 - TNNLS: IEEE Transactions on Neural Networks and Learning Systems
@@ -32,7 +42,7 @@ I am an associate professor in school of computer science and technology at [Dal
 - TSC: IEEE Transactions on Services Computing
 - TASLP: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 
-# Talks
+# <span style="color:rgb(55, 126, 184);">Talks</span>
 - CHIP 2023, "Privacy-Preserving Medical Dialogue Generation Based on Federated Learning", Hangzhou, October 2023. 
 - COLING 2022, "RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips", Online, October 2022.
 - 腾讯犀牛鸟中学科学人才培养计划, "Natural Language Processing", Online, June 2022.
