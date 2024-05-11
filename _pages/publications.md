@@ -86,6 +86,7 @@ author_profile: true
 [<span style="color:red;">ICONIP</span>] Haifeng Liu, Hongfei Lin, Bo Xu, Liang Yang, Yuan Lin, Yonghe Chu, Wenqi Fan, Nan Zhao. Improving social recommendations with item relationships. ICONIP 2020: 763-770. (CCF-C)
 
 **2019**
+
 [<span style="color:red;">TCBB</span>] Bo Xu, Hongfei Lin, Yuan Lin. Learning to refine expansion terms for biomedical information retrieval using semantic resources. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019, 16(3): 954-966. (CCF-B)
 
 [<span style="color:red;">BMC Bioinformatics</span>] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yi-Jia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin. A supervised term ranking model for diversity enhanced biomedical information retrieval. BMC Bioinformatics. 2019, 20-S(16): 590:1-590:11. (CCF-C)
@@ -97,8 +98,6 @@ author_profile: true
 [<span style="color:red;">NLPCC</span>] Tongxuan Zhang, Yuqi Ren, Michael Mesfin Tadessem, Bo Xu, Xikai Liu, Liang Yang, Zhihao Yang, Jian Wang, Hongfei Lin. Bi-directional capsule network model for Chinese biomedical community question answering. NLPCC 2019: 105-116. (CCF-C)
 
 [<span style="color:red;">CJC</span>] 徐博,林鸿飞,林原,许侃.一种融合语义资源的生物医学查询理解方法[J].计算机学报,2019,42(10):2160-2174. (CCF-A)
-
-
 
 **2018 and before**
 
