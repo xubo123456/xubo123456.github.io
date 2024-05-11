@@ -14,13 +14,25 @@ I am an associate professor in school of computer science and technology at [Dal
 
 # <span style="color:rgb(55, 126, 184);">News</span>
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our two papers were accepted by <span style="color:blue;">SIGIR 2024 (CCF-A)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our two papers were accepted by <span style="color:blue;">_SIGIR 2024 (CCF-A)_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our one paper was published by <span style="color:blue;">TKDE (CCF-A; JCR Q1; IF: 8.9)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our one paper was published by <span style="color:blue;">_TKDE (CCF-A; JCR Q1; IF: 8.9)_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (03/2024) Our three papers were accepted by <span style="color:blue;">COLING 2024 (CCF-B)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (03/2024) Our three papers were accepted by <span style="color:blue;">_COLING 2024 (CCF-B)_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">TNNLS (CCF-B; JCR Q1; IF: 10.4)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">_TNNLS (CCF-B; JCR Q1; IF: 10.4)_</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was published by <span style="color:blue;">_TOIS (CCF-A; JCR Q1; IF: 6.8)_</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was accepted by <span style="color:blue;">_AAAI 2024 (CCF-A)_</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2023) Our one paper was published by <span style="color:blue;">_计算机学报 (CCF-A)_</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (10/2023) Our one paper was accepted by <span style="color:blue;">_MM 2024 (CCF-A)_</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (08/2023) Our one paper was published by <span style="color:blue;">_TASLP (CCF-B)_</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2023) Our two papers were accepted by <span style="color:blue;">_ACL 2024 (CCF-A)_</span>!
 
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
 - SIGIR: The International ACM Conference on Research and Development in Information Retrieval (2023/2024, CCF-A)
