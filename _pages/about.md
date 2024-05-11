@@ -16,13 +16,13 @@ I am an associate professor in school of computer science and technology at [Dal
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our two papers were accepted by <span style="color:blue;">_SIGIR 2024 (CCF-A)_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our one paper was published by <span style="color:blue;">_TKDE (CCF-A; JCR Q1; IF: 8.9)_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our one paper was published by <span style="color:blue;">_TKDE (CCF-A)_</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (03/2024) Our three papers were accepted by <span style="color:blue;">_COLING 2024 (CCF-B)_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">_TNNLS (CCF-B; JCR Q1; IF: 10.4)_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">_TNNLS (CCF-B)_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was published by <span style="color:blue;">_TOIS (CCF-A; JCR Q1; IF: 6.8)_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was published by <span style="color:blue;">_TOIS (CCF-A)_</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was accepted by <span style="color:blue;">_AAAI 2024 (CCF-A)_</span>!
 
