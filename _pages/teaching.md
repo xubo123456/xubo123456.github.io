@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 1. Computer Composition Principles, Undergraduates Majored in Computer Science and Artificial Intelligence
