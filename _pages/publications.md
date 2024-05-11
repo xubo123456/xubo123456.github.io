@@ -25,25 +25,25 @@ author_profile: true
 
 **2023**
 
--Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Yuan Lin, Hongfei Lin. Bi-Preference Learning Heterogeneous Hypergraph Networks for Session-based Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 1-28 , 2023. (CCF-A)
+[**<span style="color:red;">TOIS</span>**] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Yuan Lin, Hongfei Lin. Bi-Preference Learning Heterogeneous Hypergraph Networks for Session-based Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 1-28 , 2023. (CCF-A)
 
--Bo Zhang, Jian Wang, Hui Ma, Bo Xu, Hongfei Lin. ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation. Proceedings of the 31st ACM International Conference on Multimedia, MM'23, 2023:5464–5473. (CCF-A)
+[**<span style="color:red;">MM</span>**] Bo Zhang, Jian Wang, Hui Ma, Bo Xu, Hongfei Lin. ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation. Proceedings of the 31st ACM International Conference on Multimedia, MM'23, 2023:5464–5473. (CCF-A)
 
--Junyu Lu, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang and Hongfei Lin. Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks, ACL 2023, 16235-16250. (CCF-A)
+[**<span style="color:red;">ACL</span>**] Junyu Lu, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang and Hongfei Lin. Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks, ACL 2023, 16235-16250. (CCF-A)
 
--Changrong Min, Ximing Li, Liang Yang, Zhilin Wang, Bo Xu and Hongfei Lin. Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction, ACL 2023, 10172-10183. (CCF-A)
+[**<span style="color:red;">ACL</span>**] Changrong Min, Ximing Li, Liang Yang, Zhilin Wang, Bo Xu and Hongfei Lin. Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction, ACL 2023, 10172-10183. (CCF-A)
 
--宗林林, 周佳慧, 谢秋捷, 张宪超, 徐博. 基于超图的多模态情绪识别, 计算机学报, 2023, 46 (12): 2520-2534. (CCF-A)
+[**<span style="color:red;">TASLP</span>**] Junyu Lu, Hongfei Lin, Xiaokun Zhang, Linlin Zong, Fenglong Ma, Bo Xu. Hate Speech Detection via Dual Contrastive Learning, IEEE Transactions on Audio, Speech and Language Processing, 2023, 31: 2787-2795. (CCF-B)
 
--Junyu Lu, Hongfei Lin, Xiaokun Zhang, Linlin Zong, Fenglong Ma, Bo Xu. Hate Speech Detection via Dual Contrastive Learning, IEEE Transactions on Audio, Speech and Language Processing, 2023, 31: 2787-2795. (CCF-B)
+[**<span style="color:red;">BIBM</span>**] Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, Haifeng Liu, Hongfei Lin. SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions. BIBM 2023: 2183-2186. (CCF-B)
 
--Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, Haifeng Liu, Hongfei Lin. SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions. BIBM 2023: 2183-2186. (CCF-B)
+[**<span style="color:red;">BIBM</span>**] Linlin Zong, Jian Zheng, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. An Early Depression Detection Model on Social Media using Emotional and Causal Features. BIBM 2023: 4856-4858. (CCF-B)
 
--Linlin Zong, Jian Zheng, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. An Early Depression Detection Model on Social Media using Emotional and Causal Features. BIBM 2023: 4856-4858. (CCF-B)
+[**<span style="color:red;">TMM</span>**] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
 
--Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
+[**<span style="color:red;">计算机学报</span>**] 宗林林, 周佳慧, 谢秋捷, 张宪超, 徐博. 基于超图的多模态情绪识别, 计算机学报, 2023, 46 (12): 2520-2534. (CCF-A)
 
-2022
+**2022**
 
 -Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
 
