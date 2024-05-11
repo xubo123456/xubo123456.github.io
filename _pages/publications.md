@@ -53,6 +53,10 @@ author_profile: true
 
 [<span style="color:red;">TASLP</span>] Bo Zhang, Jian Wang, Hongfei Lin, Bo Xu, Exploiting Pairwise Mutual Information for Knowledge-Grounded Dialogue. IEEE/ACM Transactions on Audio Speech and Language Processing, 2022, 30, 2231-2240. (CCF-B)
 
+[<span style="color:red;">SoftComuting</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Context-aware ranking refinement with attentive semi-supervised autoencoders. Soft Computing, 2022, 26(24): 13941-13952. (CCF-C)
+
+[<span style="color:red;">CogCom</span>] Bo Xu, Hongfei Lin, Liang Yang, Yuan Lin, Kan Xu. Cognitive knowledge-aware social recommendation via group-enhanced ranking model. Cognitive Computation. 2022, 14(3): 1055-1067.
+
 [<span style="color:red;">JCRD</span>] 胡旭阳,王治政,孙媛媛,徐博,林鸿飞. 融合语义解析的知识图谱表示方法[J].计算机研究与发展,2022,59(12):2878-2888. (CCF-A)
 
 **2021**
