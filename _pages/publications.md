@@ -63,7 +63,13 @@ author_profile: true
 
 [<span style="color:red;">EMNLP Finding</span>] Changrong Min, Yonghe Chu, Liang Yang, Bo Xu, Hongfei Lin. Locality preserving sentence encoding. Findings of the Association for Computational Linguistics: EMNLP (Findings) 2021: 3050-3060. (CCF-B)
 
-[<span style="color:red;">KBS</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Two-stage supervised ranking for emotion cause extraction. Knowlege Based Systems, 2021, 228: 107225.
+[<span style="color:red;">KBS</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Two-stage supervised ranking for emotion cause extraction. Knowlege-Based Systems, 2021, 228: 107225. (CCF-C)
+
+[<span style="color:red;">KBS</span>] Yuan Lin, Bo Xu, Jiaojiao Feng, Hongfei Lin, Kan Xu. Knowledge-enhanced recommendation using item embedding and path attention. Knowledge-Based Systems, 2021, 233: 107484. (CCF-C)
+
+[<span style="color:red;">JBI</span>] Tongxuan Zhang, Hongfei Lin, Bo Xu, Liang Yang, Jian Wang, Xiaodong Duan. Adversarial neural network with sentiment-aware attention for detecting adverse drug reactions. Journal of Biomedical Informatics, 2021, 123: 103896. (CCF-C)
+
+[<span style="color:red;">NLPCC</span>] Jiaming Wu, Hongfei Lin, Liang Yang, Bo Xu. MUMOR: A multimodal dataset for humor detection in conversations. NLPCC 2021: 619-627. (CCF-C)
 
 [<span style="color:red;">专著</span>] 徐博, 面向互联网的智能信息检索技术研究, 科学出版社, 2021年, 32万字，学术专著.
 
@@ -75,20 +81,41 @@ author_profile: true
 
 [<span style="color:red;">BIBM</span>] Tongxuan Zhang, Hongfei Lin, Bo Xu, Yuqi Ren, Zhihao Yang, Jian Wang, Xiaodong Duan. Gated iterative capsule network for adverse drug reaction detection from social media. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020: 387-390. (CCF-B)
 
+[<span style="color:red;">Soft Computing</span>] Bo Xu, Hongfei Lin, Yuan Lin, Yizhou Guan. Integrating social annotations into topic models for personalized document retrieval. Soft Computing, 2020, 24(3): 1707-1716. (CCF-C)
+
+[<span style="color:red;">ICONIP</span>] Haifeng Liu, Hongfei Lin, Bo Xu, Liang Yang, Yuan Lin, Yonghe Chu, Wenqi Fan, Nan Zhao. Improving social recommendations with item relationships. ICONIP 2020: 763-770. (CCF-C)
+
 **2019**
+[<span style="color:red;">TCBB</span>] Bo Xu, Hongfei Lin, Yuan Lin. Learning to refine expansion terms for biomedical information retrieval using semantic resources. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019, 16(3): 954-966. (CCF-B)
+
+[<span style="color:red;">BMC Bioinformatics</span>] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yi-Jia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin. A supervised term ranking model for diversity enhanced biomedical information retrieval. BMC Bioinformatics. 2019, 20-S(16): 590:1-590:11. (CCF-C)
+
+[<span style="color:red;">ESWA</span>] Yuan Lin, Bo Xu, Hongfei Lin, Kan Xu, Ping Zhang. FGFIREM: A feature generation framework based on information retrieval evaluation measures. Expert System and Application. 2019, 133: 75-85. (CCF-C)
+
+[<span style="color:red;">Neurocomputing</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Incorporating query constraints for autoencoder enhanced ranking. Neurocomputing, 2019, 356: 142-150. (CCF-C)
+
+[<span style="color:red;">NLPCC</span>] Tongxuan Zhang, Yuqi Ren, Michael Mesfin Tadessem, Bo Xu, Xikai Liu, Liang Yang, Zhihao Yang, Jian Wang, Hongfei Lin. Bi-directional capsule network model for Chinese biomedical community question answering. NLPCC 2019: 105-116. (CCF-C)
 
 [<span style="color:red;">CJC</span>] 徐博,林鸿飞,林原,许侃.一种融合语义资源的生物医学查询理解方法[J].计算机学报,2019,42(10):2160-2174. (CCF-A)
 
-[<span style="color:red;">TCBB</span>] Bo Xu, Hongfei Lin, Yuan Lin. Learning to refine expansion terms for biomedical information retrieval using semantic resources. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019, 16(3): 954-966. (CCF-B)
 
-**Before 2018**
+
+**2018 and before**
 
 [<span style="color:red;">TCBB</span>] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Improve biomedical information retrieval using modified learning to rank methods. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018, 15(6): 1797-1809. (CCF-B)
 
+[<span style="color:red;">ACL</span>] Dongyu Zhang, Hongfei Lin, Liang Yang, Shaowu Zhang, Bo Xu. Construction of a Chinese corpus for the analysis of the emotionality of metaphorical expressions. ACL 2018: 144-150. (CCF-A)
+
+[<span style="color:red;">EMNLP</span>] Yufeng Diao, Hongfei Lin, Di Wu, Liang Yang, Kan Xu, Zhihao Yang, Jian Wang, Shaowu Zhang, Bo Xu, Dongyu Zhang. WECA：A wordNet-encoded collocation-attention network for homographic pun recognition. EMNLP 2018: 2507-2516. (CCF-B)
+
 [<span style="color:red;">BIBM</span>] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yijia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin, Improve diversity-oriented biomedical information retrieval using supervised query expansion. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2018: 556-559. (CCF-B)
+
+[<span style="color:red;">NLPCC</span>] Bo Xu, Dongyu Zhang, Shaowu Zhang, Hengchao Li, Hongfei Lin. Stock market trend prediction using recurrent convolutional neural betworks. NLPCC 2018: 166-177.  (CCF-C)
 
 [<span style="color:red;">CIKM</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Learning to rank with query-level semi-supervised autoencoders. The 26th ACM International Conference on Information and Knowledge Management, CIKM 2017: 2395-2398. (CCF-B)
 
 [<span style="color:red;">JASIST</span>] Bo Xu, Hongfei Lin, Yuan Lin. Assessment of learning to rank methods for query expansion. Journal of the Association for Information Science and Technology, 2016, 67(6): 1345-1357. (CCF-B)
+
+[<span style="color:red;">NLPCC</span>] Bo Xu, Hongfei Lin, Mingzhen Zhao, Zhihao Yang, Jian Wang, Shaowu Zhang. Detecting potential adverse drug reactions from health-related social networks. NLPCC 2016: 523-530. (CCF-C)
 
 [<span style="color:red;">BIBM</span>] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Learning to rank for biomedical information retrieval. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2015: 464-469. (CCF-B)
