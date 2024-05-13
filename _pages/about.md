@@ -35,12 +35,12 @@ I am an associate professor at school of computer science and technology in [Dal
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2023) Our two papers were accepted by <span style="color:blue;">_ACL 2024_ (CCF-A)</span>!
 
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
-- SIGIR: The International ACM Conference on Research and Development in Information Retrieval (2023/2024, CCF-A)
-- ACL: The Annual Meeting of Association for Computational Linguistics (2024, CCF-A)
-- AAAI: The Annual AAAI Conference on Artificial Intelligence (2021/2022/2023/2024, CCF-A)
-- ACM MM: ACM Multimedia Conference (2024, CCF-A)
-- DASFAA: The International Conference on Database Systems for Advanced Applications (2024, CCF-B)
-- ICME: IEEE International Conference on Multimedia & Expo (2024, CCF-B)
+- SIGIR'23/24: The International ACM Conference on Research and Development in Information Retrieval (CCF-A)
+- ACL'24: The Annual Meeting of Association for Computational Linguistics (CCF-A)
+- AAAI'21/22/23/24: The Annual AAAI Conference on Artificial Intelligence (CCF-A)
+- ACM MM'24: ACM Multimedia Conference (CCF-A)
+- DASFAA'24: The International Conference on Database Systems for Advanced Applications (CCF-B)
+- ICME'24: IEEE International Conference on Multimedia & Expo (CCF-B)
 
 # <span style="color:rgb(55, 126, 184);">Chair and Editorship</span>
 - 2024: Session Chair, Special Session “Multimodal Emotion and Cognitive Computing” of International Conference on Computational Linguistics and Natural Language Processing ([CLNLP 2024](https://www.clnlp.org/)).
