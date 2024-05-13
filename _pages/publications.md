@@ -13,11 +13,11 @@ author_profile: true
 
 [<span style="color:red;">TKDE</span>] [[paper](/files/TKDE正式版.pdf)] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Liang Yang, Hongfei Lin. Beyond Co-occurrence: Multi-modal Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(4): 1450-1462, 2024. (CCF-A)
 
-[<span style="color:red;">COLING</span>] [[paper]()] Junyu Lu, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang and Hongfei Lin, Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect, LREC-COLING 2024, accepted. (CCF-B)
+[<span style="color:red;">COLING</span>] [paper] Junyu Lu, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang and Hongfei Lin, Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect, LREC-COLING 2024, accepted. (CCF-B)
 
-[<span style="color:red;">COLING</span>] [[paper]()] Xinyue Liu, Jianan Zhang, Chi Ma, Wenxin Liang, Bo Xu and Linlin Zong. Temporal Knowledge Graph Reasoning with Dynamic Hypergraph Embedding, LREC-COLING 2024, accepted. (CCF-B)
+[<span style="color:red;">COLING</span>] [paper] Xinyue Liu, Jianan Zhang, Chi Ma, Wenxin Liang, Bo Xu and Linlin Zong. Temporal Knowledge Graph Reasoning with Dynamic Hypergraph Embedding, LREC-COLING 2024, accepted. (CCF-B)
 
-[<span style="color:red;">COLING</span>] [[paper]()] Linlin Zong, Zhenrong Xie, Chi Ma, Xinyue Liu, Xianchao Zhang and Bo Xu. RENN: A Rule Embedding Enhanced Neural Network Framework for Temporal Knowledge Graph Completion, LREC-COLING 2024, accepted. (CCF-B)
+[<span style="color:red;">COLING</span>] [paper] Linlin Zong, Zhenrong Xie, Chi Ma, Xinyue Liu, Xianchao Zhang and Bo Xu. RENN: A Rule Embedding Enhanced Neural Network Framework for Temporal Knowledge Graph Completion, LREC-COLING 2024, accepted. (CCF-B)
 
 [<span style="color:red;">AAAI</span>] [[paper](/files/AAAI24正式版.pdf)] Linlin Zong, Jiahui Wan, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. Video-Language Aligned Transformer for Video Question Answering. AAAI 2024, 19795-19803. (CCF-A)
 
@@ -25,39 +25,39 @@ author_profile: true
 
 **2023**
 
-[<span style="color:red;">TOIS</span>] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Yuan Lin, Hongfei Lin. Bi-Preference Learning Heterogeneous Hypergraph Networks for Session-based Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 1-28 , 2023. (CCF-A)
+[<span style="color:red;">TOIS</span>] [[paper]()] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Yuan Lin, Hongfei Lin. Bi-Preference Learning Heterogeneous Hypergraph Networks for Session-based Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 1-28 , 2023. (CCF-A)
 
-[<span style="color:red;">MM</span>] Bo Zhang, Jian Wang, Hui Ma, Bo Xu, Hongfei Lin. ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation. Proceedings of the 31st ACM International Conference on Multimedia, MM'23, 2023:5464–5473. (CCF-A)
+[<span style="color:red;">MM</span>] [[paper]()] Bo Zhang, Jian Wang, Hui Ma, Bo Xu, Hongfei Lin. ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation. Proceedings of the 31st ACM International Conference on Multimedia, MM'23, 2023:5464–5473. (CCF-A)
 
-[<span style="color:red;">ACL</span>] Junyu Lu, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang and Hongfei Lin. Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks, ACL 2023, 16235-16250. (CCF-A)
+[<span style="color:red;">ACL</span>] [[paper]()] Junyu Lu, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang and Hongfei Lin. Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks, ACL 2023, 16235-16250. (CCF-A)
 
-[<span style="color:red;">ACL</span>] Changrong Min, Ximing Li, Liang Yang, Zhilin Wang, Bo Xu and Hongfei Lin. Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction, ACL 2023, 10172-10183. (CCF-A)
+[<span style="color:red;">ACL</span>] [[paper]()] Changrong Min, Ximing Li, Liang Yang, Zhilin Wang, Bo Xu and Hongfei Lin. Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction, ACL 2023, 10172-10183. (CCF-A)
 
-[<span style="color:red;">TASLP</span>] Junyu Lu, Hongfei Lin, Xiaokun Zhang, Linlin Zong, Fenglong Ma, Bo Xu. Hate Speech Detection via Dual Contrastive Learning, IEEE Transactions on Audio, Speech and Language Processing, 2023, 31: 2787-2795. (CCF-B)
+[<span style="color:red;">TASLP</span>] [[paper]()] Junyu Lu, Hongfei Lin, Xiaokun Zhang, Linlin Zong, Fenglong Ma, Bo Xu. Hate Speech Detection via Dual Contrastive Learning, IEEE Transactions on Audio, Speech and Language Processing, 2023, 31: 2787-2795. (CCF-B)
 
-[<span style="color:red;">BIBM</span>] Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, Haifeng Liu, Hongfei Lin. SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions. BIBM 2023: 2183-2186. (CCF-B)
+[<span style="color:red;">BIBM</span>] [[paper]()] Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, Haifeng Liu, Hongfei Lin. SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions. BIBM 2023: 2183-2186. (CCF-B)
 
-[<span style="color:red;">BIBM</span>] Linlin Zong, Jian Zheng, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. An Early Depression Detection Model on Social Media using Emotional and Causal Features. BIBM 2023: 4856-4858. (CCF-B)
+[<span style="color:red;">BIBM</span>] [[paper]()] Linlin Zong, Jian Zheng, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. An Early Depression Detection Model on Social Media using Emotional and Causal Features. BIBM 2023: 4856-4858. (CCF-B)
 
-[<span style="color:red;">TMM</span>] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
+[<span style="color:red;">TMM</span>] [[paper]()] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
 
-[<span style="color:red;">CJC</span>] Linlin Zong, Jiahui Zhou, Qiujie Xie, Xianchao Zhang, Bo Xu, Multi-modal Emotion Recognition Based on Hypergraph, Chinese Journal of Computers, 2023, 46 (12): 2520-2534. (CCF-A in Chinese)
+[<span style="color:red;">CJC</span>] [[paper]()] Linlin Zong, Jiahui Zhou, Qiujie Xie, Xianchao Zhang, Bo Xu, Multi-modal Emotion Recognition Based on Hypergraph, Chinese Journal of Computers, 2023, 46 (12): 2520-2534. (CCF-A in Chinese)
 
 **2022**
 
-[<span style="color:red;">COLING</span>] Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
+[<span style="color:red;">COLING</span>] [[paper]()] Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
 
-[<span style="color:red;">SIGIR</span>] Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin. Price DOES Matter!: Modeling price and interest preferences in session-based recommendation. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022: 1684-1693. (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper]()] Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin. Price DOES Matter!: Modeling price and interest preferences in session-based recommendation. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022: 1684-1693. (CCF-A)
 
-[<span style="color:red;">IPM</span>] Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, Haifeng Liu, Fenglong Ma. Dynamic intent-aware iterative denoising network for session-based recommendation. Information Processing & Management, 2022, 59(3): 102936. (CCF-B)
+[<span style="color:red;">IPM</span>] [[paper]()] Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, Haifeng Liu, Fenglong Ma. Dynamic intent-aware iterative denoising network for session-based recommendation. Information Processing & Management, 2022, 59(3): 102936. (CCF-B)
 
-[<span style="color:red;">TASLP</span>] Bo Zhang, Jian Wang, Hongfei Lin, Bo Xu, Exploiting Pairwise Mutual Information for Knowledge-Grounded Dialogue. IEEE/ACM Transactions on Audio Speech and Language Processing, 2022, 30, 2231-2240. (CCF-B)
+[<span style="color:red;">TASLP</span>] [[paper]()] Bo Zhang, Jian Wang, Hongfei Lin, Bo Xu, Exploiting Pairwise Mutual Information for Knowledge-Grounded Dialogue. IEEE/ACM Transactions on Audio Speech and Language Processing, 2022, 30, 2231-2240. (CCF-B)
 
-[<span style="color:red;">SoftComuting</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Context-aware ranking refinement with attentive semi-supervised autoencoders. Soft Computing, 2022, 26(24): 13941-13952. (CCF-C)
+[<span style="color:red;">SoftComuting</span>] [[paper]()] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Context-aware ranking refinement with attentive semi-supervised autoencoders. Soft Computing, 2022, 26(24): 13941-13952. (CCF-C)
 
-[<span style="color:red;">CogCom</span>] Bo Xu, Hongfei Lin, Liang Yang, Yuan Lin, Kan Xu. Cognitive knowledge-aware social recommendation via group-enhanced ranking model. Cognitive Computation. 2022, 14(3): 1055-1067.
+[<span style="color:red;">CogCom</span>] [[paper]()] Bo Xu, Hongfei Lin, Liang Yang, Yuan Lin, Kan Xu. Cognitive knowledge-aware social recommendation via group-enhanced ranking model. Cognitive Computation. 2022, 14(3): 1055-1067.
 
-[<span style="color:red;">JCRD</span>] Xuyang Hu, Zhizheng Wang, Yuanyuan Sun, Bo Xu, Hongfei Lin. Knowledge Graph Representation Method Combined with Semantic Parsing. Journal of Computer Research and Development, 2022, 59(12):2878-2888. (CCF-A in Chinese)
+[<span style="color:red;">JCRD</span>] [[paper]()] Xuyang Hu, Zhizheng Wang, Yuanyuan Sun, Bo Xu, Hongfei Lin. Knowledge Graph Representation Method Combined with Semantic Parsing. Journal of Computer Research and Development, 2022, 59(12):2878-2888. (CCF-A in Chinese)
 
 **2021**
 
