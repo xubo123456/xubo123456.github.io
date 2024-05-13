@@ -26,7 +26,7 @@ I am an associate professor in school of computer science and technology at [Dal
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was accepted by <span style="color:blue;">_AAAI 2024_ (CCF-A)</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2023) Our one paper was published by <span style="color:blue;">_Chinese Journal of Computers (计算机学报)_ (CCF-A)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2023) Our one paper was published by <span style="color:blue;">_计算机学报_ (CCF-A)</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (10/2023) Our one paper was accepted by <span style="color:blue;">_MM 2024_ (CCF-A)</span>!
 
