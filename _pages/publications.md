@@ -41,7 +41,7 @@ author_profile: true
 
 [<span style="color:red;">TMM</span>] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
 
-[<span style="color:red;">CJC</span>] 宗林林, 周佳慧, 谢秋捷, 张宪超, 徐博. 基于超图的多模态情绪识别, 计算机学报, 2023, 46 (12): 2520-2534. (CCF-A)
+[<span style="color:red;">CJC</span>] Linlin Zong, Jiahui Zhou, Qiujie Xie, Xianchao Zhang, Bo Xu, Multi-modal Emotion Recognition Based on Hypergraph (基于超图的多模态情绪识别), Chinese Journal of Computers (计算机学报), 2023, 46 (12): 2520-2534. (CCF-A)
 
 **2022**
 
@@ -57,7 +57,7 @@ author_profile: true
 
 [<span style="color:red;">CogCom</span>] Bo Xu, Hongfei Lin, Liang Yang, Yuan Lin, Kan Xu. Cognitive knowledge-aware social recommendation via group-enhanced ranking model. Cognitive Computation. 2022, 14(3): 1055-1067.
 
-[<span style="color:red;">JCRD</span>] 胡旭阳,王治政,孙媛媛,徐博,林鸿飞. 融合语义解析的知识图谱表示方法[J].计算机研究与发展,2022,59(12):2878-2888. (CCF-A)
+[<span style="color:red;">JCRD</span>] Xuyang Hu, Zhizheng Wang, Yuanyuan Sun, Bo Xu, Hongfei Lin. Knowledge Graph Representation Method Combined with Semantic Parsing (融合语义解析的知识图谱表示方法). Journal of Computer Research and Development (计算机研究与发展),2022,59(12):2878-2888. (CCF-A)
 
 **2021**
 
@@ -75,7 +75,7 @@ author_profile: true
 
 [<span style="color:red;">NLPCC</span>] Jiaming Wu, Hongfei Lin, Liang Yang, Bo Xu. MUMOR: A multimodal dataset for humor detection in conversations. NLPCC 2021: 619-627. (CCF-C)
 
-[<span style="color:red;">专著</span>] 徐博, 面向互联网的智能信息检索技术研究, 科学出版社, 2021年, 32万字，学术专著.
+[<span style="color:red;">Monograph</span>] Bo Xu, Research on Intelligent Web Information Retrieval Technologies (面向互联网的智能信息检索技术研究), Science Press (科学出版社), 2021, 320,000 words, Academic Monograph Funded by China Postdoctoral Science Foundation.
 
 **2000**
 
@@ -101,7 +101,7 @@ author_profile: true
 
 [<span style="color:red;">NLPCC</span>] Tongxuan Zhang, Yuqi Ren, Michael Mesfin Tadessem, Bo Xu, Xikai Liu, Liang Yang, Zhihao Yang, Jian Wang, Hongfei Lin. Bi-directional capsule network model for Chinese biomedical community question answering. NLPCC 2019: 105-116. (CCF-C)
 
-[<span style="color:red;">CJC</span>] 徐博,林鸿飞,林原,许侃.一种融合语义资源的生物医学查询理解方法[J].计算机学报,2019,42(10):2160-2174. (CCF-A)
+[<span style="color:red;">CJC</span>] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. A Biomedical Query Understanding Method based on Semantic Resources (一种融合语义资源的生物医学查询理解方法). Chinese Journal of Computers (计算机学报), 2019, 42(10):2160-2174. (CCF-A)
 
 **2018 and before**
 
