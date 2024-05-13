@@ -26,7 +26,7 @@ I am an associate professor in school of computer science and technology at [Dal
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was accepted by <span style="color:blue;">_AAAI 2024_ (CCF-A)</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2023) Our one paper was published by <span style="color:blue;">_计算机学报_ (CCF-A)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2023) Our one paper was published by <span style="color:blue;">_Chinese Journal of Computers_ (CCF-A)</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (10/2023) Our one paper was accepted by <span style="color:blue;">_MM 2024_ (CCF-A)</span>!
 
@@ -58,4 +58,4 @@ I am an associate professor in school of computer science and technology at [Dal
 # <span style="color:rgb(55, 126, 184);">Talks</span>
 - CHIP 2023, "Privacy-Preserving Medical Dialogue Generation Based on Federated Learning", Hangzhou, October 2023. 
 - COLING 2022, "RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips", Online, October 2022.
-- Tencent Rhino Bird Middle School Science Talent Training Program (腾讯犀牛鸟中学科学人才培养计划), "Natural Language Processing and Its Applications", Online, June 2022.
+- Tencent Rhino Bird Middle School Science Talent Training Program, "Natural Language Processing and Its Applications", Online, June 2022.
