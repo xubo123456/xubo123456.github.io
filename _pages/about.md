@@ -42,9 +42,9 @@ I am an associate professor in school of computer science and technology at [Dal
 - DASFAA: The International Conference on Database Systems for Advanced Applications (2024, CCF-B)
 - ICME: IEEE International Conference on Multimedia & Expo (2024, CCF-B)
 
-# <span style="color:rgb(55, 126, 184);">Editorship</span>
-- 2024: Session Chair, Special Session “Multimodal Emotion and Cognitive Computing” of International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2024).
-- 2023: Guest Editor, special issue "Emerging Theory and Applications in Natural Language Processing", Electronics. (IF: 2.9, SCI)
+# <span style="color:rgb(55, 126, 184);">Chair and Editorship</span>
+- 2024: Session Chair, Special Session “Multimodal Emotion and Cognitive Computing” of International Conference on Computational Linguistics and Natural Language Processing ([CLNLP 2024](https://www.clnlp.org/)).
+- 2023: Guest Editor, special issue "[Emerging Theory and Applications in Natural Language Processing](https://www.mdpi.com/journal/electronics/special_issues/2ULAZT544Q)", Electronics. (IF: 2.9, SCI)
 
 # <span style="color:rgb(55, 126, 184);">Journal Reviewer</span>
 - TKDE: IEEE Transactions on Knowledge and Data Engineering
