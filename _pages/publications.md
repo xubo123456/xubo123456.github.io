@@ -11,7 +11,7 @@ author_profile: true
 
 [<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12975)] Xiaokun Zhang, Bo Xu, Youlin Wu, Yuan Zhong, Hongfei Lin and Fenglong Ma. FineRec: Exploring Fine-grained Sequential Recommendation, SIGIR 2024, accepted, 2024, (CCF-A)
 
-[<span style="color:red;">TKDE</span>] [[paper]()] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Liang Yang, Hongfei Lin. Beyond Co-occurrence: Multi-modal Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(4): 1450-1462, 2024. (CCF-A)
+[<span style="color:red;">TKDE</span>] [[paper](/files/TKDE正式版.pdf)] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Liang Yang, Hongfei Lin. Beyond Co-occurrence: Multi-modal Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(4): 1450-1462, 2024. (CCF-A)
 
 [<span style="color:red;">COLING</span>] [[paper]()] Junyu Lu, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang and Hongfei Lin, Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect, LREC-COLING 2024, accepted. (CCF-B)
 
@@ -19,9 +19,9 @@ author_profile: true
 
 [<span style="color:red;">COLING</span>] [[paper]()] Linlin Zong, Zhenrong Xie, Chi Ma, Xinyue Liu, Xianchao Zhang and Bo Xu. RENN: A Rule Embedding Enhanced Neural Network Framework for Temporal Knowledge Graph Completion, LREC-COLING 2024, accepted. (CCF-B)
 
-[<span style="color:red;">AAAI</span>] [[paper]()] Linlin Zong, Jiahui Wan, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. Video-Language Aligned Transformer for Video Question Answering. AAAI 2024, 19795-19803. (CCF-A)
+[<span style="color:red;">AAAI</span>] [[paper](/files/AAAI24正式版.pdf)] Linlin Zong, Jiahui Wan, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. Video-Language Aligned Transformer for Video Question Answering. AAAI 2024, 19795-19803. (CCF-A)
 
-[<span style="color:red;">TNNLS</span>] [[paper]()] Linlin Zong, Faqiang Miao, Xianchao Zhang, Wenxin Liang, Bo Xu, Self-Supervised Deep Multiview Spectral Clustering, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4299-4308, 2024. (CCF-B)
+[<span style="color:red;">TNNLS</span>] [[paper](/files/TNNLS-Self-Supervised_Deep_Multiview_Spectral_Clustering.pdf)] Linlin Zong, Faqiang Miao, Xianchao Zhang, Wenxin Liang, Bo Xu, Self-Supervised Deep Multiview Spectral Clustering, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4299-4308, 2024. (CCF-B)
 
 **2023**
 
