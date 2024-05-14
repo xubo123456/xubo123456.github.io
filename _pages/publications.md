@@ -61,21 +61,21 @@ author_profile: true
 
 **2021**
 
-[<span style="color:red;">SIGIR</span>] [[paper](/files/)] Yuan Lin, Zhang Xie, Bo Xu, Kan Xu, Hongfei Lin:Info-flow Enhanced GANs for Recommender. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2021: 1703-1707. (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper](/files/2021 林原 SIGIR.pdf)] Yuan Lin, Zhang Xie, Bo Xu, Kan Xu, Hongfei Lin:Info-flow Enhanced GANs for Recommender. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2021: 1703-1707. (CCF-A)
 
-[<span style="color:red;">SIGIR</span>] [[paper](/files/)] Linlin Zong, Qiujie Xie, Jiahui Zhou, Peiran Wu, Xianchao Zhang, Bo Xu. FedCMR: Federated cross-modal retrieval. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2021: 1672-1676. (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper](/files/2021 宗林林 SIGIR.pdf)] Linlin Zong, Qiujie Xie, Jiahui Zhou, Peiran Wu, Xianchao Zhang, Bo Xu. FedCMR: Federated cross-modal retrieval. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2021: 1672-1676. (CCF-A)
 
-[<span style="color:red;">EMNLP Finding</span>] [[paper](/files/)] Changrong Min, Yonghe Chu, Liang Yang, Bo Xu, Hongfei Lin. Locality preserving sentence encoding. Findings of the Association for Computational Linguistics: EMNLP (Findings) 2021: 3050-3060. (CCF-B)
+[<span style="color:red;">EMNLP Finding</span>] [[paper](/files/2021 闵昶榮 EMNLP Finding.pdf)] Changrong Min, Yonghe Chu, Liang Yang, Bo Xu, Hongfei Lin. Locality preserving sentence encoding. Findings of the Association for Computational Linguistics: EMNLP (Findings) 2021: 3050-3060. (CCF-B)
 
-[<span style="color:red;">KBS</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Two-stage supervised ranking for emotion cause extraction. Knowlege-Based Systems, 2021, 228: 107225. (CCF-C)
+[<span style="color:red;">KBS</span>] [[paper](/files/徐博-KBS-2021.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Two-stage supervised ranking for emotion cause extraction. Knowlege-Based Systems, 2021, 228: 107225. (CCF-C)
 
-[<span style="color:red;">KBS</span>] [[paper](/files/)] Yuan Lin, Bo Xu, Jiaojiao Feng, Hongfei Lin, Kan Xu. Knowledge-enhanced recommendation using item embedding and path attention. Knowledge-Based Systems, 2021, 233: 107484. (CCF-C)
+[<span style="color:red;">KBS</span>] [[paper](/files/2021 林原 KBS.pdf)] Yuan Lin, Bo Xu, Jiaojiao Feng, Hongfei Lin, Kan Xu. Knowledge-enhanced recommendation using item embedding and path attention. Knowledge-Based Systems, 2021, 233: 107484. (CCF-C)
 
-[<span style="color:red;">JBI</span>] [[paper](/files/)] Tongxuan Zhang, Hongfei Lin, Bo Xu, Liang Yang, Jian Wang, Xiaodong Duan. Adversarial neural network with sentiment-aware attention for detecting adverse drug reactions. Journal of Biomedical Informatics, 2021, 123: 103896. (CCF-C)
+[<span style="color:red;">JBI</span>] [[paper](/files/2021 张桐瑄 JBI.pdf)] Tongxuan Zhang, Hongfei Lin, Bo Xu, Liang Yang, Jian Wang, Xiaodong Duan. Adversarial neural network with sentiment-aware attention for detecting adverse drug reactions. Journal of Biomedical Informatics, 2021, 123: 103896. (CCF-C)
 
-[<span style="color:red;">NLPCC</span>] [[paper](/files/)] Jiaming Wu, Hongfei Lin, Liang Yang, Bo Xu. MUMOR: A multimodal dataset for humor detection in conversations. NLPCC 2021: 619-627. (CCF-C)
+[<span style="color:red;">NLPCC</span>] [[paper](/files/2021 吴佳铭 NLPCC 对话幽默数据集构建.pdf)] Jiaming Wu, Hongfei Lin, Liang Yang, Bo Xu. MUMOR: A multimodal dataset for humor detection in conversations. NLPCC 2021: 619-627. (CCF-C)
 
-[<span style="color:red;">Monograph</span>] [[paper](/files/)] Bo Xu, Research on Intelligent Web Information Retrieval Technologies (in Chinese), Science Press, 2021, 320,000 words, Academic Monograph Funded by China Postdoctoral Science Foundation.
+[<span style="color:red;">Monograph</span>] [[JD_link](https://3.cn/1Z-fwzOQ)] Bo Xu, Research on Intelligent Web Information Retrieval Technologies (in Chinese), Science Press, 2021, 320,000 words, Academic Monograph Funded by China Postdoctoral Science Foundation.
 
 **2000**
 
