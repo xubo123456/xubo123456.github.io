@@ -75,33 +75,33 @@ author_profile: true
 
 [<span style="color:red;">NLPCC</span>] [[paper](/files/2021 吴佳铭 NLPCC 对话幽默数据集构建.pdf)] Jiaming Wu, Hongfei Lin, Liang Yang, Bo Xu. MUMOR: A multimodal dataset for humor detection in conversations. NLPCC 2021: 619-627. (CCF-C)
 
-[<span style="color:red;">Monograph</span>] [[JD_link](https://3.cn/1Z-fwzOQ)] Bo Xu, Research on Intelligent Web Information Retrieval Technologies (in Chinese), Science Press, 2021, 320,000 words, Academic Monograph Funded by China Postdoctoral Science Foundation.
+[<span style="color:red;">Monograph</span>] [[purchase link](https://3.cn/1Z-fwzOQ)] Bo Xu, Research on Intelligent Web Information Retrieval Technologies (in Chinese), Science Press, 2021, 320,000 words, Academic Monograph Funded by China Postdoctoral Science Foundation.
 
 **2000**
 
-[<span style="color:red;">CIKM</span>] [[paper](/files/)] Linlin Zong, Faqiang Miao, Xianchao Zhang, Bo Xu. Multimodal clustering via deep commonness and uniqueness mining. The 29th ACM International Conference on Information and Knowledge Management, CIKM 2020: 2357-2360. (CCF-B)
+[<span style="color:red;">CIKM</span>] [[paper](/files/2020 宗林林 CIKM.pdf)] Linlin Zong, Faqiang Miao, Xianchao Zhang, Bo Xu. Multimodal clustering via deep commonness and uniqueness mining. The 29th ACM International Conference on Information and Knowledge Management, CIKM 2020: 2357-2360. (CCF-B)
 
-[<span style="color:red;">BIBM</span>] [[paper](/files/)] Haifeng Liu, Hongfei Lin, Chen Shen, Liang Yang, Yuan Lin, Bo Xu, Zhihao Yang, Jian Wang, Yuanyuan Sun. Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020: 319-322. (CCF-B)
+[<span style="color:red;">BIBM</span>] [[paper](/files/2020 刘海峰 BIBM.pdf)] Haifeng Liu, Hongfei Lin, Chen Shen, Liang Yang, Yuan Lin, Bo Xu, Zhihao Yang, Jian Wang, Yuanyuan Sun. Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020: 319-322. (CCF-B)
 
-[<span style="color:red;">BIBM</span>] [[paper](/files/)] Tongxuan Zhang, Hongfei Lin, Bo Xu, Yuqi Ren, Zhihao Yang, Jian Wang, Xiaodong Duan. Gated iterative capsule network for adverse drug reaction detection from social media. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020: 387-390. (CCF-B)
+[<span style="color:red;">BIBM</span>] [[paper](/files/2020 张桐瑄 BIBM.pdf)] Tongxuan Zhang, Hongfei Lin, Bo Xu, Yuqi Ren, Zhihao Yang, Jian Wang, Xiaodong Duan. Gated iterative capsule network for adverse drug reaction detection from social media. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2020: 387-390. (CCF-B)
 
-[<span style="color:red;">Soft Computing</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Yizhou Guan. Integrating social annotations into topic models for personalized document retrieval. Soft Computing, 2020, 24(3): 1707-1716. (CCF-C)
+[<span style="color:red;">Soft Computing</span>] [[paper](/files/徐博-soft computing.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Yizhou Guan. Integrating social annotations into topic models for personalized document retrieval. Soft Computing, 2020, 24(3): 1707-1716. (CCF-C)
 
-[<span style="color:red;">ICONIP</span>] [[paper](/files/)] Haifeng Liu, Hongfei Lin, Bo Xu, Liang Yang, Yuan Lin, Yonghe Chu, Wenqi Fan, Nan Zhao. Improving social recommendations with item relationships. ICONIP 2020: 763-770. (CCF-C)
+[<span style="color:red;">ICONIP</span>] [[paper](/files/2020 刘海峰 ICONIP.pdf)] Haifeng Liu, Hongfei Lin, Bo Xu, Liang Yang, Yuan Lin, Yonghe Chu, Wenqi Fan, Nan Zhao. Improving social recommendations with item relationships. ICONIP 2020: 763-770. (CCF-C)
 
 **2019**
 
-[<span style="color:red;">TCBB</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin. Learning to refine expansion terms for biomedical information retrieval using semantic resources. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019, 16(3): 954-966. (CCF-B)
+[<span style="color:red;">TCBB</span>] [[paper](/files/徐博-TCBB 2019.pdf)] Bo Xu, Hongfei Lin, Yuan Lin. Learning to refine expansion terms for biomedical information retrieval using semantic resources. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019, 16(3): 954-966. (CCF-B)
 
-[<span style="color:red;">BMC Bioinformatics</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yi-Jia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin. A supervised term ranking model for diversity enhanced biomedical information retrieval. BMC Bioinformatics. 2019, 20-S(16): 590:1-590:11. (CCF-C)
+[<span style="color:red;">BMC Bioinformatics</span>] [[paper](/files/徐博-BMC Bioinformatics.pdf)] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yi-Jia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin. A supervised term ranking model for diversity enhanced biomedical information retrieval. BMC Bioinformatics. 2019, 20-S(16): 590:1-590:11. (CCF-C)
 
-[<span style="color:red;">ESWA</span>] [[paper](/files/)] Yuan Lin, Bo Xu, Hongfei Lin, Kan Xu, Ping Zhang. FGFIREM: A feature generation framework based on information retrieval evaluation measures. Expert System and Application. 2019, 133: 75-85. (CCF-C)
+[<span style="color:red;">ESWA</span>] [[paper](/files/2019 林原-专家系统.pdf)] Yuan Lin, Bo Xu, Hongfei Lin, Kan Xu, Ping Zhang. FGFIREM: A feature generation framework based on information retrieval evaluation measures. Expert System and Application. 2019, 133: 75-85. (CCF-C)
 
-[<span style="color:red;">Neurocomputing</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Incorporating query constraints for autoencoder enhanced ranking. Neurocomputing, 2019, 356: 142-150. (CCF-C)
+[<span style="color:red;">Neurocomputing</span>] [[paper](/files/徐博-Neurocomputing.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Incorporating query constraints for autoencoder enhanced ranking. Neurocomputing, 2019, 356: 142-150. (CCF-C)
 
-[<span style="color:red;">NLPCC</span>] [[paper](/files/)] Tongxuan Zhang, Yuqi Ren, Michael Mesfin Tadessem, Bo Xu, Xikai Liu, Liang Yang, Zhihao Yang, Jian Wang, Hongfei Lin. Bi-directional capsule network model for Chinese biomedical community question answering. NLPCC 2019: 105-116. (CCF-C)
+[<span style="color:red;">NLPCC</span>] [[paper](/files/2019 张桐瑄-NLPCC2019-医疗问答.pdf)] Tongxuan Zhang, Yuqi Ren, Michael Mesfin Tadessem, Bo Xu, Xikai Liu, Liang Yang, Zhihao Yang, Jian Wang, Hongfei Lin. Bi-directional capsule network model for Chinese biomedical community question answering. NLPCC 2019: 105-116. (CCF-C)
 
-[<span style="color:red;">CJC</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. A Biomedical Query Understanding Method based on Semantic Resources. Chinese Journal of Computers, 2019, 42(10):2160-2174. (CCF-A in Chinese)
+[<span style="color:red;">CJC</span>] [[paper](/files/徐博-计算机学报-正式版.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. A Biomedical Query Understanding Method based on Semantic Resources. Chinese Journal of Computers, 2019, 42(10):2160-2174. (CCF-A in Chinese)
 
 **2018 and before**
 
