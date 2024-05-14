@@ -105,20 +105,20 @@ author_profile: true
 
 **2018 and before**
 
-[<span style="color:red;">TCBB</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Improve biomedical information retrieval using modified learning to rank methods. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018, 15(6): 1797-1809. (CCF-B)
+[<span style="color:red;">TCBB</span>] [[paper](/files/徐博-TCBB 2018.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Improve biomedical information retrieval using modified learning to rank methods. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018, 15(6): 1797-1809. (CCF-B)
 
-[<span style="color:red;">ACL</span>] [[paper](/files/)] Dongyu Zhang, Hongfei Lin, Liang Yang, Shaowu Zhang, Bo Xu. Construction of a Chinese corpus for the analysis of the emotionality of metaphorical expressions. ACL 2018: 144-150. (CCF-A)
+[<span style="color:red;">ACL</span>] [[paper](/files/张冬瑜-ACL 2018.pdf)] Dongyu Zhang, Hongfei Lin, Liang Yang, Shaowu Zhang, Bo Xu. Construction of a Chinese corpus for the analysis of the emotionality of metaphorical expressions. ACL 2018: 144-150. (CCF-A)
 
-[<span style="color:red;">EMNLP</span>] [[paper](/files/)] Yufeng Diao, Hongfei Lin, Di Wu, Liang Yang, Kan Xu, Zhihao Yang, Jian Wang, Shaowu Zhang, Bo Xu, Dongyu Zhang. WECA：A wordNet-encoded collocation-attention network for homographic pun recognition. EMNLP 2018: 2507-2516. (CCF-B)
+[<span style="color:red;">EMNLP</span>] [[paper](/files/刁宇峰-EMNLP2018.pdf)] Yufeng Diao, Hongfei Lin, Di Wu, Liang Yang, Kan Xu, Zhihao Yang, Jian Wang, Shaowu Zhang, Bo Xu, Dongyu Zhang. WECA：A wordNet-encoded collocation-attention network for homographic pun recognition. EMNLP 2018: 2507-2516. (CCF-B)
 
-[<span style="color:red;">BIBM</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yijia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin, Improve diversity-oriented biomedical information retrieval using supervised query expansion. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2018: 556-559. (CCF-B)
+[<span style="color:red;">BIBM</span>] [[paper](/files/徐博-BIBM 2018.pdf)] Bo Xu, Hongfei Lin, Liang Yang, Kan Xu, Yijia Zhang, Dongyu Zhang, Zhihao Yang, Jian Wang, Yuan Lin, Fuliang Yin, Improve diversity-oriented biomedical information retrieval using supervised query expansion. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2018: 556-559. (CCF-B)
 
-[<span style="color:red;">NLPCC</span>] [[paper](/files/)] Bo Xu, Dongyu Zhang, Shaowu Zhang, Hengchao Li, Hongfei Lin. Stock market trend prediction using recurrent convolutional neural betworks. NLPCC 2018: 166-177.  (CCF-C)
+[<span style="color:red;">NLPCC</span>] [[paper](/files/徐博-NLPCC 2018- 股市预测.pdf)] Bo Xu, Dongyu Zhang, Shaowu Zhang, Hengchao Li, Hongfei Lin. Stock market trend prediction using recurrent convolutional neural betworks. NLPCC 2018: 166-177.  (CCF-C)
 
-[<span style="color:red;">CIKM</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Learning to rank with query-level semi-supervised autoencoders. The 26th ACM International Conference on Information and Knowledge Management, CIKM 2017: 2395-2398. (CCF-B)
+[<span style="color:red;">CIKM</span>] [[paper](/files/徐博-CIKM2017.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Learning to rank with query-level semi-supervised autoencoders. The 26th ACM International Conference on Information and Knowledge Management, CIKM 2017: 2395-2398. (CCF-B)
 
-[<span style="color:red;">JASIST</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin. Assessment of learning to rank methods for query expansion. Journal of the Association for Information Science and Technology, 2016, 67(6): 1345-1357. (CCF-B)
+[<span style="color:red;">JASIST</span>] [[paper](/files/徐博-JASIST2016.pdf)] Bo Xu, Hongfei Lin, Yuan Lin. Assessment of learning to rank methods for query expansion. Journal of the Association for Information Science and Technology, 2016, 67(6): 1345-1357. (CCF-B)
 
-[<span style="color:red;">NLPCC</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Mingzhen Zhao, Zhihao Yang, Jian Wang, Shaowu Zhang. Detecting potential adverse drug reactions from health-related social networks. NLPCC 2016: 523-530. (CCF-C)
+[<span style="color:red;">NLPCC</span>] [[paper](/files/徐博-NLPCC2016-ADRS.pdf)] Bo Xu, Hongfei Lin, Mingzhen Zhao, Zhihao Yang, Jian Wang, Shaowu Zhang. Detecting potential adverse drug reactions from health-related social networks. NLPCC 2016: 523-530. (CCF-C)
 
-[<span style="color:red;">BIBM</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Learning to rank for biomedical information retrieval. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2015: 464-469. (CCF-B)
+[<span style="color:red;">BIBM</span>] [[paper](/files/徐博-BIBM 2015.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Yunlong Ma, Liang Yang, Jian Wang, Zhihao Yang. Learning to rank for biomedical information retrieval. IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2015: 464-469. (CCF-B)
