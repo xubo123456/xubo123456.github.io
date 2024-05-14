@@ -45,19 +45,19 @@ author_profile: true
 
 **2022**
 
-[<span style="color:red;">COLING</span>] [[paper](/files/)] Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
+[<span style="color:red;">COLING</span>] [[paper](/files/COLING2022正式版.pdf)] Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
 
-[<span style="color:red;">SIGIR</span>] [[paper](/files/)] Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin. Price DOES Matter!: Modeling price and interest preferences in session-based recommendation. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022: 1684-1693. (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper](/files/SIGIR2022.pdf)] Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin. Price DOES Matter!: Modeling price and interest preferences in session-based recommendation. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022: 1684-1693. (CCF-A)
 
-[<span style="color:red;">IPM</span>] [[paper](/files/)] Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, Haifeng Liu, Fenglong Ma. Dynamic intent-aware iterative denoising network for session-based recommendation. Information Processing & Management, 2022, 59(3): 102936. (CCF-B)
+[<span style="color:red;">IPM</span>] [[paper](/files/2022-晓堃 IPM.pdf)] Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, Haifeng Liu, Fenglong Ma. Dynamic intent-aware iterative denoising network for session-based recommendation. Information Processing & Management, 2022, 59(3): 102936. (CCF-B)
 
-[<span style="color:red;">TASLP</span>] [[paper](/files/)] Bo Zhang, Jian Wang, Hongfei Lin, Bo Xu, Exploiting Pairwise Mutual Information for Knowledge-Grounded Dialogue. IEEE/ACM Transactions on Audio Speech and Language Processing, 2022, 30, 2231-2240. (CCF-B)
+[<span style="color:red;">TASLP</span>] [[paper](/files/张博论文 正式版.pdf)] Bo Zhang, Jian Wang, Hongfei Lin, Bo Xu, Exploiting Pairwise Mutual Information for Knowledge-Grounded Dialogue. IEEE/ACM Transactions on Audio Speech and Language Processing, 2022, 30, 2231-2240. (CCF-B)
 
-[<span style="color:red;">SoftComuting</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Context-aware ranking refinement with attentive semi-supervised autoencoders. Soft Computing, 2022, 26(24): 13941-13952. (CCF-C)
+[<span style="color:red;">Soft Computing</span>] [[paper](/files/soft computing.pdf)] Bo Xu, Hongfei Lin, Yuan Lin, Kan Xu. Context-aware ranking refinement with attentive semi-supervised autoencoders. Soft Computing, 2022, 26(24): 13941-13952. (CCF-C)
 
-[<span style="color:red;">CogCom</span>] [[paper](/files/)] Bo Xu, Hongfei Lin, Liang Yang, Yuan Lin, Kan Xu. Cognitive knowledge-aware social recommendation via group-enhanced ranking model. Cognitive Computation. 2022, 14(3): 1055-1067.
+[<span style="color:red;">CogCom</span>] [[paper](/files/Cognitive Computation2022 online.pdf)] Bo Xu, Hongfei Lin, Liang Yang, Yuan Lin, Kan Xu. Cognitive knowledge-aware social recommendation via group-enhanced ranking model. Cognitive Computation. 2022, 14(3): 1055-1067.
 
-[<span style="color:red;">JCRD</span>] [[paper](/files/)] Xuyang Hu, Zhizheng Wang, Yuanyuan Sun, Bo Xu, Hongfei Lin. Knowledge Graph Representation Method Combined with Semantic Parsing. Journal of Computer Research and Development, 2022, 59(12):2878-2888. (CCF-A in Chinese)
+[<span style="color:red;">JCRD</span>] [[paper](/files/融合语义解析的知识图谱表示方法_胡旭阳.pdf)] Xuyang Hu, Zhizheng Wang, Yuanyuan Sun, Bo Xu, Hongfei Lin. Knowledge Graph Representation Method Combined with Semantic Parsing. Journal of Computer Research and Development, 2022, 59(12):2878-2888. (CCF-A in Chinese)
 
 **2021**
 
