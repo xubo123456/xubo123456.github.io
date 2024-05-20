@@ -7,7 +7,9 @@ author_profile: true
 
 **2024**
 
-[<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12969)] Xiaokun Zhang, Bo Xu, Zhaochun Ren, Xiaochen Wang, Hongfei Lin and Fenglong Ma. Disentangling ID and Modality Effects for Session-based Recommendation, SIGIR 2024, accepted, 2024, (CCF-A)
+[<span style="color:red;">SIGIR</span>] [paper] Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu.Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection, ACL Findings 2024, accepted, 2024. (CCF-A)
+
+[<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12969)] Xiaokun Zhang, Bo Xu, Zhaochun Ren, Xiaochen Wang, Hongfei Lin and Fenglong Ma. Disentangling ID and Modality Effects for Session-based Recommendation, SIGIR 2024, accepted, 2024. (CCF-A)
 
 [<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12975)] Xiaokun Zhang, Bo Xu, Youlin Wu, Yuan Zhong, Hongfei Lin and Fenglong Ma. FineRec: Exploring Fine-grained Sequential Recommendation, SIGIR 2024, accepted, 2024, (CCF-A)
 
