@@ -41,7 +41,7 @@ author_profile: true
 
 [<span style="color:red;">BIBM</span>] [[paper](/files/BIBM23_Zong.pdf)] Linlin Zong, Jian Zheng, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. An Early Depression Detection Model on Social Media using Emotional and Causal Features. BIBM 2023: 4856-4858. (CCF-B)
 
-[<span style="color:red;">TMM</span>] [paper] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
+[<span style="color:red;">TMM</span>] [[paper](/files/TMM马绘.pdf)] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
 
 [<span style="color:red;">CJC</span>] [[paper](/files/计算机学报23.pdf)] Linlin Zong, Jiahui Zhou, Qiujie Xie, Xianchao Zhang, Bo Xu, Multi-modal Emotion Recognition Based on Hypergraph, Chinese Journal of Computers, 2023, 46 (12): 2520-2534. (CCF-A in Chinese)
 
