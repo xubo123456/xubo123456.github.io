@@ -39,6 +39,7 @@ I am an associate professor at school of computer science and technology in [Dal
 - ACL'24: The Annual Meeting of Association for Computational Linguistics (CCF-A)
 - AAAI'21/22/23/24: The Annual AAAI Conference on Artificial Intelligence (CCF-A)
 - ACM MM'24: ACM Multimedia Conference (CCF-A)
+- CIKM'24: ACM International Conference on Information and Knowledge Management (CCF-B)
 - DASFAA'24: The International Conference on Database Systems for Advanced Applications (CCF-B)
 - ICME'24: IEEE International Conference on Multimedia & Expo (CCF-B)
 - CIPS Committee Member of Emotional Computing Group, Medical Health and Bioinformatics Processing Group, and Natural Language Generation and Intelligent Writing Group.
