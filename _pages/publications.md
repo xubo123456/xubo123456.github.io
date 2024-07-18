@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **2024**
+
 [<span style="color:red;">CIKM</span>] [paper] Bo Xu, Xuening Qiao, Hongfei Lin, Linlin Zong. MPHDetect: Multi-View Prompting and Hypergraph Fusion for Malevolence Detection in Dialogues, CIKM 2024, accepted, 2024. (CCF-B)
 
 [<span style="color:red;">MM</span>] [paper] Xinyue Liu, Jiahui Wan, Linlin Zong, Bo Xu. Conditional Diffusion Model for Open-ended Video Question Answering, ACM MM 2024, accepted, 2024. (CCF-A)
