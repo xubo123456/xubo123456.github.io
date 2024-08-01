@@ -31,6 +31,8 @@ author_profile: true
 
 [<span style="color:red;">TNNLS</span>] [[paper](/files/TNNLS-Self-Supervised_Deep_Multiview_Spectral_Clustering.pdf)] Linlin Zong, Faqiang Miao, Xianchao Zhang, Wenxin Liang, Bo Xu, Self-Supervised Deep Multiview Spectral Clustering, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4299-4308, 2024. (CCF-B)
 
+[<span style="color:red;">TMM</span>] [[paper](/files/马绘TMM.pdf)] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 26: 776-788, 2024. (CCF-B)
+
 **2023**
 
 [<span style="color:red;">TOIS</span>] [[paper](/files/TOIS23.pdf)] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Yuan Lin, Hongfei Lin. Bi-Preference Learning Heterogeneous Hypergraph Networks for Session-based Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 1-28 , 2023. (CCF-A)
@@ -46,8 +48,6 @@ author_profile: true
 [<span style="color:red;">BIBM</span>] [[paper](/files/BIBM23_QiuYunzhi.pdf)] Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, Haifeng Liu, Hongfei Lin. SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions. BIBM 2023: 2183-2186. (CCF-B)
 
 [<span style="color:red;">BIBM</span>] [[paper](/files/BIBM23_Zong.pdf)] Linlin Zong, Jian Zheng, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. An Early Depression Detection Model on Social Media using Emotional and Causal Features. BIBM 2023: 4856-4858. (CCF-B)
-
-[<span style="color:red;">TMM</span>] [[paper](/files/TMM马绘.pdf)] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 2023, accepted. (CCF-B)
 
 [<span style="color:red;">CJC</span>] [[paper](/files/计算机学报23.pdf)] Linlin Zong, Jiahui Zhou, Qiujie Xie, Xianchao Zhang, Bo Xu, Multi-modal Emotion Recognition Based on Hypergraph, Chinese Journal of Computers, 2023, 46 (12): 2520-2534. (CCF-A in Chinese)
 
