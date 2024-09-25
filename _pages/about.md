@@ -13,7 +13,7 @@ I am an associate professor at school of computer science and technology in [Dal
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
 
 # <span style="color:rgb(55, 126, 184);">News</span>
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (09/2024) Our three paper was accepted by <span style="color:blue;">_EMNLP 2024_ (CCF-B)</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (09/2024) Our three papers were accepted by <span style="color:blue;">_EMNLP 2024_ (CCF-B)</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (08/2024) Our one paper was accepted by <span style="color:blue;">_BIBM 2024_ (CCF-B)</span>!
 
