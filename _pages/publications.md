@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 **2024**
+
+[<span style="color:red;">BIBM</span>] [paper] Junyu Lu, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin, Towards Comprehensive Detection of Chinese Harmful Memes: Dataset and Detector, NeurIPS 2024, accepted, 2024. (CCF-A)
+
+[<span style="color:red;">EMNLP Finding</span>] [paper] Hongbo Wang, Mingda Li, Junyu Lu, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin, PclGPT: A Large Language Model for Patronizing and Condescending Language Detection, EMNLP Finding 2024, accepted, 2024. (CCF-B)
+
+[<span style="color:red;">EMNLP Finding</span>] [paper] Jinzhong Ning, Yuanyuan Sun, Bo Xu, Zhihao Yang, Lingluo, Hongfei Lin. Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech, EMNLP Finding 2024, accepted, 2024. (CCF-B)
+
+[<span style="color:red;">EMNLP Finding</span>] [paper] Xinyue Liu, Yunlong Gao, Linlin Zong, Bo Xu. Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks, EMNLP Finding 2024, accepted, 2024. (CCF-B)
+
 [<span style="color:red;">BIBM</span>] [paper] Bo Xu, Xuening Qiao, Xiaokun Zhang, Jiahui Wan, Xinyue Liu, Linlin Zong, Hongfei Lin.Modeling Implicit Emotion and User-specific Context for Malevolence Detection in Mental Health Counseling Dialogues, BIBM 2024, accepted, 2024. (CCF-B)
 
 [<span style="color:red;">CIKM</span>] [paper] Bo Xu, Xuening Qiao, Hongfei Lin, Linlin Zong. MPHDetect: Multi-View Prompting and Hypergraph Fusion for Malevolence Detection in Dialogues, CIKM 2024, accepted, 2024. (CCF-B)
