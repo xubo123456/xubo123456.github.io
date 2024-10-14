@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **2024**
+[<span style="color:red;">BIBM</span>] [paper] Bo Xu, Xuening Qiao, Xiaokun Zhang, Jiahui Wan, Xinyue Liu, Linlin Zong, Hongfei Lin.Modeling Implicit Emotion and User-specific Context for Malevolence Detection in Mental Health Counseling Dialogues, BIBM 2024, accepted, 2024. (CCF-B)
 
 [<span style="color:red;">CIKM</span>] [paper] Bo Xu, Xuening Qiao, Hongfei Lin, Linlin Zong. MPHDetect: Multi-View Prompting and Hypergraph Fusion for Malevolence Detection in Dialogues, CIKM 2024, accepted, 2024. (CCF-B)
 
@@ -13,11 +14,11 @@ author_profile: true
 
 [<span style="color:red;">ECAI</span>] [paper] Chenyang Li, Bo Xu, Meng Wang and Kun He. Semantic Similarity Driven Multi-modal Model for Rumor Detection, ECAI 2024, accepted, 2024. (CCF-B)
 
-[<span style="color:red;">ACL Findings</span>] [[paper](https://aclanthology.org/2024.findings-acl.642.pdf)] Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu. Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection, ACL Findings 2024, 2024: 10817-10826. (CCF-A)
+[<span style="color:red;">ACL Findings</span>] [[paper](https://aclanthology.org/2024.findings-acl.642.pdf)] Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu. Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection, ACL Findings 2024, 10817-10826. (CCF-A)
 
-[<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12969)] Xiaokun Zhang, Bo Xu, Zhaochun Ren, Xiaochen Wang, Hongfei Lin and Fenglong Ma. Disentangling ID and Modality Effects for Session-based Recommendation, SIGIR 2024, accepted, 2024. (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12969)] Xiaokun Zhang, Bo Xu, Zhaochun Ren, Xiaochen Wang, Hongfei Lin and Fenglong Ma. Disentangling ID and Modality Effects for Session-based Recommendation, SIGIR 2024, 1883-1892. (CCF-A)
 
-[<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12975)] Xiaokun Zhang, Bo Xu, Youlin Wu, Yuan Zhong, Hongfei Lin and Fenglong Ma. FineRec: Exploring Fine-grained Sequential Recommendation, SIGIR 2024, accepted, 2024, (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper](https://arxiv.org/pdf/2404.12975)] Xiaokun Zhang, Bo Xu, Youlin Wu, Yuan Zhong, Hongfei Lin and Fenglong Ma. FineRec: Exploring Fine-grained Sequential Recommendation, SIGIR 2024, 1599-1608, (CCF-A)
 
 [<span style="color:red;">TKDE</span>] [[paper](/files/TKDE正式版.pdf)] Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Liang Yang, Hongfei Lin. Beyond Co-occurrence: Multi-modal Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(4): 1450-1462, 2024. (CCF-A)
 
@@ -27,7 +28,7 @@ author_profile: true
 
 [<span style="color:red;">COLING</span>] [[paper](/files/COLING24宗林林.pdf)] Linlin Zong, Zhenrong Xie, Chi Ma, Xinyue Liu, Xianchao Zhang and Bo Xu. RENN: A Rule Embedding Enhanced Neural Network Framework for Temporal Knowledge Graph Completion, LREC-COLING 2024, 13919-13928. (CCF-B)
 
-[<span style="color:red;">AAAI</span>] [[paper](/files/AAAI24正式版.pdf)] Linlin Zong, Jiahui Wan, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. Video-Language Aligned Transformer for Video Question Answering. AAAI 2024, 19795-19803. (CCF-A)
+[<span style="color:red;">AAAI</span>] [[paper](/files/AAAI24.pdf)] Linlin Zong, Jiahui Wan, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu. Video-Language Aligned Transformer for Video Question Answering. AAAI 2024, 19795-19803. (CCF-A)
 
 [<span style="color:red;">TNNLS</span>] [[paper](/files/TNNLS-Self-Supervised_Deep_Multiview_Spectral_Clustering.pdf)] Linlin Zong, Faqiang Miao, Xianchao Zhang, Wenxin Liang, Bo Xu, Self-Supervised Deep Multiview Spectral Clustering, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4299-4308, 2024. (CCF-B)
 
