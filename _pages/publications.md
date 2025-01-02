@@ -17,7 +17,7 @@ author_profile: true
 
 [<span style="color:red;">BIBM</span>] [paper] Bo Xu, Xuening Qiao, Xiaokun Zhang, Jiahui Wan, Xinyue Liu, Linlin Zong, Hongfei Lin.Modeling Implicit Emotion and User-specific Context for Malevolence Detection in Mental Health Counseling Dialogues, BIBM 2024, accepted, 2024. (CCF-B)
 
-[<span style="color:red;">CIKM</span>] [paper] Bo Xu, Xuening Qiao, Hongfei Lin, Linlin Zong. MPHDetect: Multi-View Prompting and Hypergraph Fusion for Malevolence Detection in Dialogues, CIKM 2024, accepted, 2024. (CCF-B)
+[<span style="color:red;">CIKM</span>] [[paper](/files/一作-CIKM24乔雪宁.pdf)] Bo Xu, Xuening Qiao, Hongfei Lin, Linlin Zong. MPHDetect: Multi-View Prompting and Hypergraph Fusion for Malevolence Detection in Dialogues, CIKM 2024, 4133-4137. (CCF-B)
 
 [<span style="color:red;">MM</span>] [paper] Xinyue Liu, Jiahui Wan, Linlin Zong, Bo Xu. Conditional Diffusion Model for Open-ended Video Question Answering, ACM MM 2024, accepted, 2024. (CCF-A)
 
