@@ -7,19 +7,19 @@ author_profile: true
 
 **2024**
 
-[<span style="color:red;">BIBM</span>] [paper] Junyu Lu, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin, Towards Comprehensive Detection of Chinese Harmful Memes: Dataset and Detector, NeurIPS 2024, accepted, 2024. (CCF-A)
+[<span style="color:red;">NeurIPS</span>] [paper] Junyu Lu, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin, Towards Comprehensive Detection of Chinese Harmful Memes: Dataset and Detector, NeurIPS 2024, accepted, 2024. (CCF-A)
 
-[<span style="color:red;">EMNLP Finding</span>] [paper] Hongbo Wang, Mingda Li, Junyu Lu, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin, PclGPT: A Large Language Model for Patronizing and Condescending Language Detection, EMNLP Finding 2024, accepted, 2024. (CCF-B)
+[<span style="color:red;">EMNLP Finding</span>] [[paper](/files/王宏博-2024.findings-emnlp.406.pdf)] Hongbo Wang, Mingda Li, Junyu Lu, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin, PclGPT: A Large Language Model for Patronizing and Condescending Language Detection, EMNLP Finding 2024, accepted, 2024. (CCF-B)
 
-[<span style="color:red;">EMNLP Finding</span>] [paper] Jinzhong Ning, Yuanyuan Sun, Bo Xu, Zhihao Yang, Lingluo, Hongfei Lin. Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech, EMNLP Finding 2024, accepted, 2024. (CCF-B)
+[<span style="color:red;">EMNLP Finding</span>] [[paper](/files/宁金忠-2024.findings-emnlp.67.pdf)] Jinzhong Ning, Yuanyuan Sun, Bo Xu, Zhihao Yang, Lingluo, Hongfei Lin. Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech, EMNLP Finding 2024, accepted, 2024. (CCF-B)
 
-[<span style="color:red;">EMNLP Finding</span>] [paper] Xinyue Liu, Yunlong Gao, Linlin Zong, Bo Xu. Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks, EMNLP Finding 2024, accepted, 2024. (CCF-B)
+[<span style="color:red;">EMNLP Finding</span>] [[paper](/files/通讯-刘馨月2024.findings-emnlp.12.pdf)] Xinyue Liu, Yunlong Gao, Linlin Zong, Bo Xu. Improve Meta-learning for Few-Shot Text Classification with All You Can Acquire from the Tasks, EMNLP Finding 2024, accepted, 2024. (CCF-B)
 
 [<span style="color:red;">BIBM</span>] [paper] Bo Xu, Xuening Qiao, Xiaokun Zhang, Jiahui Wan, Xinyue Liu, Linlin Zong, Hongfei Lin.Modeling Implicit Emotion and User-specific Context for Malevolence Detection in Mental Health Counseling Dialogues, BIBM 2024, accepted, 2024. (CCF-B)
 
 [<span style="color:red;">CIKM</span>] [[paper](/files/一作-CIKM24乔雪宁.pdf)] Bo Xu, Xuening Qiao, Hongfei Lin, Linlin Zong. MPHDetect: Multi-View Prompting and Hypergraph Fusion for Malevolence Detection in Dialogues, CIKM 2024, 4133-4137. (CCF-B)
 
-[<span style="color:red;">MM</span>] [paper] Xinyue Liu, Jiahui Wan, Linlin Zong, Bo Xu. Conditional Diffusion Model for Open-ended Video Question Answering, ACM MM 2024, accepted, 2024. (CCF-A)
+[<span style="color:red;">MM</span>] [[paper](/files/刘馨月MM24.pdf)] Xinyue Liu, Jiahui Wan, Linlin Zong, Bo Xu. Conditional Diffusion Model for Open-ended Video Question Answering, ACM MM 2024, accepted, 2024. (CCF-A)
 
 [<span style="color:red;">ECAI</span>] [[paper](/files/李晨阳-ECAI.pdf)] Chenyang Li, Bo Xu, Meng Wang and Kun He. Semantic Similarity Driven Multi-modal Model for Rumor Detection, ECAI 2024, 3749-3756. (CCF-B)
 
