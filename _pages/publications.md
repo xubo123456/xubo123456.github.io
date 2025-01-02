@@ -21,7 +21,7 @@ author_profile: true
 
 [<span style="color:red;">MM</span>] [paper] Xinyue Liu, Jiahui Wan, Linlin Zong, Bo Xu. Conditional Diffusion Model for Open-ended Video Question Answering, ACM MM 2024, accepted, 2024. (CCF-A)
 
-[<span style="color:red;">ECAI</span>] [paper] Chenyang Li, Bo Xu, Meng Wang and Kun He. Semantic Similarity Driven Multi-modal Model for Rumor Detection, ECAI 2024, accepted, 2024. (CCF-B)
+[<span style="color:red;">ECAI</span>] [[paper](/files/李晨阳-ECAI.pdf)] Chenyang Li, Bo Xu, Meng Wang and Kun He. Semantic Similarity Driven Multi-modal Model for Rumor Detection, ECAI 2024, 3749-3756. (CCF-B)
 
 [<span style="color:red;">ACL Findings</span>] [[paper](https://aclanthology.org/2024.findings-acl.642.pdf)] Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu. Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection, ACL Findings 2024, 10817-10826. (CCF-A)
 
