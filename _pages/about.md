@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at school of computer science and technology in [Dalian University of Technology](https://en.dlut.edu.cn/). I received my bachelors' degree and PhD degree under the supervision of Prof. Hongfei Lin at Information Retrieval Lab. of Dalian University of Technology ([DUTIR](http://ir.dlut.edu.cn/)). My research interest includes medical human-machine dialogue, psychological computing, recommender system, large language models and other topics related to Natural Language Processing.
+I am an associate professor at school of computer science and technology in [Dalian University of Technology](https://en.dlut.edu.cn/). I received my bachelors' degree and Ph.D degree under the supervision of Prof. Hongfei Lin at Information Retrieval Lab. of Dalian University of Technology ([DUTIR](http://ir.dlut.edu.cn/)). My research interest includes medical human-machine dialogue, psychological computing, recommender system, large language models and other topics related to Natural Language Processing.
 
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
 
@@ -39,27 +39,17 @@ I am an associate professor at school of computer science and technology in [Dal
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">_TNNLS_ (CCF-B)</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was published by <span style="color:blue;">_TOIS_ (CCF-A)</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2023) Our one paper was accepted by <span style="color:blue;">_AAAI 2024_ (CCF-A)</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2023) Our one paper was published by <span style="color:blue;">_Chinese Journal of Computers_ (CCF-A)</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (10/2023) Our one paper was accepted by <span style="color:blue;">_MM 2023_ (CCF-A)</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2023) Our two papers were accepted by <span style="color:blue;">_ACL 2023_ (CCF-A)</span>!
-
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
 - SIGIR'23/24: The International ACM Conference on Research and Development in Information Retrieval (CCF-A)
 - ACL'24: The Annual Meeting of Association for Computational Linguistics (CCF-A)
-- AAAI'21/22/23/24: The Annual AAAI Conference on Artificial Intelligence (CCF-A)
+- AAAI'21/22/23/24/25: The Annual AAAI Conference on Artificial Intelligence (CCF-A)
 - ACM MM'24: ACM Multimedia Conference (CCF-A)
 - EMNLP'24: The Conference on Empirical Methods in Natural Language Processing (CCF-B)
 - CIKM'24: ACM International Conference on Information and Knowledge Management (CCF-B)
 - DASFAA'24: The International Conference on Database Systems for Advanced Applications (CCF-B)
 - ICME'24: IEEE International Conference on Multimedia & Expo (CCF-B)
 - BIBM'24: IEEE International Conference on Bioinformatics and Biomedicine (CCF-B)
-- CIPS Committee Member of Emotional Computing Group, Large Language Models and Generation Group, and Medical Health and Bioinformatics Processing Group.
+- CIPS Committee Member of Emotional Computing Group, Large Language Models and Generation Group, Medical Health and Bioinformatics Processing Group, and Information Retrieval Group.
 
 # <span style="color:rgb(55, 126, 184);">Chair and Editorship</span>
 - 2024: Session Chair, Special Session “Multimodal Emotion and Cognitive Computing” of International Conference on Computational Linguistics and Natural Language Processing ([CLNLP 2024](https://www.clnlp.org/)).
