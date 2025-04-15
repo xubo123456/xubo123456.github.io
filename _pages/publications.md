@@ -43,7 +43,7 @@ author_profile: true
 
 [<span style="color:red;">TMM</span>] [[paper](/files/马绘TMM.pdf)] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 26: 776-788, 2024. (CCF-B)
 
-[<span style="color:red;">JCA</span>] [[paper]][[dataset](/files/PsychDialog.json)] Bo Xu, Dezhi Hao, Erchen Yu, Hongfei Lin, Linlin Zong. Psychological counseling human-machine dialogue dataset construction for dialogue generation and mental disorder detection (面向对话生成和心理疾病检测的心理咨询式人机对话数据集构建), Journal of Computer Application (计算机应用), 2024. (in Chinese)
+[<span style="color:red;">JCA</span>] [[paper(files/面向对话生成和心理疾病检测...理咨询式人机对话数据集构建_徐博.pdf)]][[dataset](/files/PsychDialog.json)] Bo Xu, Dezhi Hao, Erchen Yu, Hongfei Lin, Linlin Zong. Psychological counseling human-machine dialogue dataset construction for dialogue generation and mental disorder detection (面向对话生成和心理疾病检测的心理咨询式人机对话数据集构建), Journal of Computer Application (计算机应用), 2024. (in Chinese)
 
 **2023**
 
