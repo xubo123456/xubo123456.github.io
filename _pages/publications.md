@@ -43,7 +43,7 @@ author_profile: true
 
 [<span style="color:red;">TMM</span>] [[paper](/files/马绘TMM.pdf)] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations, IEEE Transactions on Multimedia, 26: 776-788, 2024. (CCF-B)
 
-[<span style="color:red;">JCA</span>] [[paper](/files/.pdf)][[dataset](/files/PsychDialog.json)] Bo Xu, Dezhi Hao, Erchen Yu, Hongfei Lin, Linlin Zong. Psychological counseling human-machine dialogue dataset construction for dialogue generation and mental disorder detection (面向对话生成和心理疾病检测的心理咨询式人机对话数据集构建), Journal of Computer Application (计算机应用), 2024. (in Chinese)
+[<span style="color:red;">JCA</span>] [[paper]][[dataset](/files/PsychDialog.json)] Bo Xu, Dezhi Hao, Erchen Yu, Hongfei Lin, Linlin Zong. Psychological counseling human-machine dialogue dataset construction for dialogue generation and mental disorder detection (面向对话生成和心理疾病检测的心理咨询式人机对话数据集构建), Journal of Computer Application (计算机应用), 2024. (in Chinese)
 
 **2023**
 
@@ -65,7 +65,7 @@ author_profile: true
 
 **2022**
 
-[<span style="color:red;">COLING</span>] [[paper](/files/COLING2022正式版.pdf)] Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
+[<span style="color:red;">COLING</span>] [[paper](/files/COLING2022正式版.pdf)][[dataset](/files/COLING2022-MedicalDialog.rar)] Bo Xu, Hongtong Zhang, Jian Wang, Xiaokun Zhang, Dezhi Hao, Linlin Zong, Hongfei Lin, Fenglong Ma. RealMedDial: A real telemedical dialogue dataset collected from online Chinese short-video clips. Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022: 3342-3352. (CCF-B)
 
 [<span style="color:red;">SIGIR</span>] [[paper](/files/SIGIR2022.pdf)] Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin. Price DOES Matter!: Modeling price and interest preferences in session-based recommendation. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2022: 1684-1693. (CCF-A)
 
