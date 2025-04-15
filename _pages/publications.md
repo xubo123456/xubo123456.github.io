@@ -7,7 +7,13 @@ author_profile: true
 
 **2025**
 
+[<span style="color:red;">ICASSP</span>] [[paper](/files/徐博-ICASSP2025.pdf)] Bo Xu, Qiujie Xie, Jiahui Zhou, Linlin Zong, Triple Path Enhanced Neural Architecture Search for Multimodal Fake News Detection, ICASSP 2025. (CCF-B)
+
 [<span style="color:red;">COLING</span>] [[paper](/files/徐博-COLING2025.pdf)] Bo Xu, Erchen Yu, Jiahui Zhou, Hongfei Lin, Linlin Zong, HyperHatePrompt: A Hypergraph-based Prompting Fusion Model for Multimodal Hate Detection, COLING 2025, 3825-3835, 2025. (CCF-B)
+
+[<span style="color:red;">COLING</span>] [[paper](/files/corr刘馨月-COLING2025.pdf)] Xinyue Liu, Zeyang Qin, Zeyu Wang, Wenxin Liang, Linlin Zong, Bo Xu, Conditional Semantic Textual Similarity via Conditional Contrastive Learning, COLING 2025, 4548-4560, 2025. (CCF-B)
+
+[<span style="color:red;">AAAI</span>] [[paper](/files/corr宗林林-AAAI25.pdf)] Linlin Zong, Wenmin Lin, Jiahui Zhou, Xinyue Liu, Xianchao Zhang, Bo Xu, Shimin Wu, Text-Guided Fine-grained Counterfactual Inference for Short Video Fake News Detection. AAAI 2025: 1237-1245. (CCF-A)
 
 **2024**
 
