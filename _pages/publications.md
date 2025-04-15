@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+**2025**
+
+[<span style="color:red;">COLING</span>] [[paper](/files/徐博-COLING2025.pdf)] Bo Xu, Erchen Yu, Jiahui Zhou, Hongfei Lin, Linlin Zong, HyperHatePrompt: A Hypergraph-based Prompting Fusion Model for Multimodal Hate Detection, COLING 2025, 3825-3835, 2025. (CCF-B)
+
 **2024**
 
 [<span style="color:red;">NeurIPS</span>] [[paper](/files/卢俊宇-NIPS2024.pdf)] Junyu Lu, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin, Towards Comprehensive Detection of Chinese Harmful Memes: Dataset and Detector, NeurIPS 2024. (CCF-A)
