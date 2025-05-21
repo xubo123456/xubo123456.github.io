@@ -21,17 +21,9 @@ I am an associate professor at school of computer science and technology in [Dal
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (4/2025) Our one paper was accepted by <span style="color:blue;">_SIGIR 2025_. Congratulations to Junyu</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2024) Our one paper was accepted by <span style="color:blue;">_AAAI 2025_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2024) Our one paper was accepted by <span style="color:blue;">_AAAI 2025_. Congratulations to Wenmin</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2024) Our one paper was accepted by <span style="color:blue;">_COLING 2025_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2024) Our one paper was accepted by <span style="color:blue;">_NeurIPS 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2024) Our one paper was accepted by <span style="color:blue;">_MM 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (05/2024) Our one paper was accepted by <span style="color:blue;">_ACL 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our two papers were accepted by <span style="color:blue;">_SIGIR 2024_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2024) Our one paper was accepted by <span style="color:blue;">_COLING 2025_. Congratulations to Erchen</span>!
 
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
 - SIGIR'23/24/25: The International ACM Conference on Research and Development in Information Retrieval
