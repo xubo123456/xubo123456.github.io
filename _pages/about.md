@@ -15,7 +15,7 @@ I am an associate professor at school of computer science and technology in [Dal
 # <span style="color:rgb(55, 126, 184);">News</span>
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (5/2025) Our one paper was accepted by <span style="color:blue;">_TKDE_. Congratulations to Xiaokun</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (05/2024) Our one paper was accepted by <span style="color:blue;">_ACL 2025_.  Congratulations to Junyu</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (5/2025) Our one paper was accepted by <span style="color:blue;">_ACL 2025_.  Congratulations to Junyu</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (5/2025) Our one paper was accepted by <span style="color:blue;">_IJCAI 2025_. Congratulations to Junlong</span>!
 
