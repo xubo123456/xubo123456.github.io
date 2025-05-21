@@ -13,7 +13,13 @@ I am an associate professor at school of computer science and technology in [Dal
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/xubo1/zh_CN/index.htm)
 
 # <span style="color:rgb(55, 126, 184);">News</span>
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2024) Our one paper was accepted by <span style="color:blue;">_ICASSP 2025_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (5/2025) Our one paper was accepted by <span style="color:blue;">_TKDE_. Congratulations to Xiaokun</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (05/2024) Our one paper was accepted by <span style="color:blue;">_ACL 2025_.  Congratulations to Junyu</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (5/2025) Our one paper was accepted by <span style="color:blue;">_IJCAI 2025_. Congratulations to Junlong</span>!
+
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (4/2025) Our one paper was accepted by <span style="color:blue;">_SIGIR 2025_. Congratulations to Junyu</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (12/2024) Our one paper was accepted by <span style="color:blue;">_AAAI 2025_</span>!
 
@@ -21,25 +27,11 @@ I am an associate professor at school of computer science and technology in [Dal
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2024) Our one paper was accepted by <span style="color:blue;">_NeurIPS 2024_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (09/2024) Our three papers were accepted by <span style="color:blue;">_EMNLP Findings 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (08/2024) Our one paper was accepted by <span style="color:blue;">_BIBM 2024_</span>!
-
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2024) Our one paper was accepted by <span style="color:blue;">_MM 2024_</span>!
 
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2024) Our one paper was accepted by <span style="color:blue;">_CIKM 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (07/2024) Our one paper was accepted by <span style="color:blue;">_ECAI 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (05/2024) Our one paper was accepted by <span style="color:blue;">_ACL Findings 2024_</span>!
+<img src="/images/new.png" alt="aaa" width="40" height="30"> (05/2024) Our one paper was accepted by <span style="color:blue;">_ACL 2024_</span>!
 
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our two papers were accepted by <span style="color:blue;">_SIGIR 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (04/2024) Our one paper was published by <span style="color:blue;">_TKDE_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (03/2024) Our three papers were accepted by <span style="color:blue;">_COLING 2024_</span>!
-
-<img src="/images/new.png" alt="aaa" width="40" height="30"> (02/2024) Our one paper was published by <span style="color:blue;">_TNNLS_</span>!
 
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
 - SIGIR'23/24: The International ACM Conference on Research and Development in Information Retrieval
