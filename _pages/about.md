@@ -40,6 +40,7 @@ I am an associate professor at school of computer science and technology in [Dal
 # <span style="color:rgb(55, 126, 184);">Chair and Editorship</span>
 - 2025: Session Chair, Special Session “Research on Information Retrieval and Recommendation Systems Driven by Large Language Models” of International Conference on Computational Linguistics and Natural Language Processing ([CLNLP 2025](https://www.clnlp.org/)).
 - 2025: Guest Editor, special issue "[Innovative Applications of Large Language Models in Natural Language Processing (NLP)](https://www.mdpi.com/journal/electronics/special_issues/TWIG2ER3UF)", Electronics. (IF: 2.9, SCI)
+- 2024: Executive Editor, Journal of Chinese Information Processing (中文信息学报), Issue 10, 2024.
 - 2024: Session Chair, Special Session “Multimodal Emotion and Cognitive Computing” of International Conference on Computational Linguistics and Natural Language Processing ([CLNLP 2024](https://www.clnlp.org/)).
 - 2023: Guest Editor, special issue "[Emerging Theory and Applications in Natural Language Processing](https://www.mdpi.com/journal/electronics/special_issues/2ULAZT544Q)", Electronics. (IF: 2.9, SCI)
 
