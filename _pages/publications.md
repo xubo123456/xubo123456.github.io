@@ -11,7 +11,7 @@ author_profile: true
 
 [<span style="color:red;">ACL</span>] [[paper](https://aclanthology.org/2025.findings-acl.293/)] 	Junyu Lu, Kai Ma, Kaichun Wang, Kelaiti Xiao, Roy Ka-Wei Lee, Bo Xu, Liang Yang, Hongfei Lin. Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement, Findings of ACL, 2025, 5609-5626. (CCF-A)
 
-[<span style="color:red;">SIGIR</span>] [[paper](https://aclanthology.org/2025.findings-naacl.62/)] Junyu Lu, Bo Xu, Xiaokun Zhang, Haohao Zhu, Kaichun Wang, Liang Yang, Hongfei Lin. Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection, SIGIR 2025, 559-569. (CCF-A)
+[<span style="color:red;">SIGIR</span>] [[paper](https://dl.acm.org/doi/10.1145/3726302.3730014)] Junyu Lu, Bo Xu, Xiaokun Zhang, Haohao Zhu, Kaichun Wang, Liang Yang, Hongfei Lin. Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection, SIGIR 2025, 559-569. (CCF-A)
 
 [<span style="color:red;">NAACL</span>] [[paper](https://aclanthology.org/2025.findings-naacl.62/)] Dinghao Pan, Yuanyuan Sun, Bo Xu, Jiru Li, Zhihao Yang, Ling Luo, Hongfei Lin, Jian Wang. Prototype Tuning: A Meta-Learning Approach for Few-Shot Document-Level Relation Extraction with Large Language Models, Findings of NAACL, 2025, 1112-1128. (CCF-B)
 
