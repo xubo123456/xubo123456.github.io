@@ -7,6 +7,8 @@ author_profile: true
 
 **2025**
 
+[<span style="color:red;">IJCAI</span>] [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3777.pdf)] Bo Xu, Liangzhi Li, Junlong Wang, Xuening Qiao, Erchen Yu, Yiming Qian, Linlin Zong, Hongfei Lin. Unveiling Maternity and Infant Care Conversations: A Chinese Dialogue Dataset for Enhanced Parenting Support, IJCAI 2025. (CCF-A)
+
 [<span style="color:red;">TKDE</span>] [[paper](https://ieeexplore.ieee.org/document/11002722)] Xiaokun Zhang, Bo Xu, Chenliang Li, Bowei He, Hongfei Lin, Chen Ma. A Survey on Side Information-Driven Session-Based Recommendation: From a Data-Centric Perspective, TKDE 2025, 37(8): 4411-4431. (CCF-A)
 
 [<span style="color:red;">ACL</span>] [[paper](https://aclanthology.org/2025.findings-acl.293/)] 	Junyu Lu, Kai Ma, Kaichun Wang, Kelaiti Xiao, Roy Ka-Wei Lee, Bo Xu, Liang Yang, Hongfei Lin. Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement, Findings of ACL, 2025, 5609-5626. (CCF-A)
