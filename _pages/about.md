@@ -28,15 +28,16 @@ I am an associate professor at school of computer science and technology in [Dal
 <img src="/images/new.png" alt="aaa" width="40" height="30"> (11/2024) Our one paper was accepted by <span style="color:blue;">_COLING 2025_. Congratulations to Erchen</span>!
 
 # <span style="color:rgb(55, 126, 184);">Technical Program Committee Member</span>
-- SIGIR'23/24/25: The International ACM Conference on Research and Development in Information Retrieval
-- ACL'24/25: The Annual Meeting of Association for Computational Linguistics
+- SIGIR'23/24/25/26: The International ACM Conference on Research and Development in Information Retrieval
+- ACL'24/25/26: The Annual Meeting of Association for Computational Linguistics (PC & AC)
 - AAAI'21/22/23/24/25: The Annual AAAI Conference on Artificial Intelligence (PC & SPC)
+- IJCAI'26: International Joint Conferences on Artificial Intelligence
 - ACM MM'24/25: ACM Multimedia Conference
 - EMNLP'24/25: The Conference on Empirical Methods in Natural Language Processing
 - CIKM'24/25: ACM International Conference on Information and Knowledge Management
-- WSDM'25: The International Conference on Web Search and Data Mining 
-- DASFAA'24/25: The International Conference on Database Systems for Advanced Applications
-- ICME'24/25: IEEE International Conference on Multimedia & Expo
+- WSDM'25/26: The International Conference on Web Search and Data Mining 
+- DASFAA'24/25/26: The International Conference on Database Systems for Advanced Applications
+- ICME'24/25/26: IEEE International Conference on Multimedia & Expo
 - BIBM'24/25: IEEE International Conference on Bioinformatics and Biomedicine
 - CIPS Committee Member of Emotional Computing Group, Large Language Models and Generation Group, Medical Health and Bioinformatics Processing Group, and Information Retrieval Group.
 
@@ -57,6 +58,8 @@ I am an associate professor at school of computer science and technology in [Dal
 - TKDD: ACM Transactions on Knowledge Discovery from Data
 - TSC: IEEE Transactions on Services Computing
 - TASLP: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+- TAFFC: IEEE Transactions on Affective Computing
+- TIP: IEEE Transactions on Image Processing
 
 # <span style="color:rgb(55, 126, 184);">Talks</span>
 - IJCAI 2025, "Unveiling Maternity and Infant Care Conversations: A Chinese Dialogue Dataset for Enhanced Parenting Support", Guangzhou, August, 2025
