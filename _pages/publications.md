@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **2025**
+
 [<span style="color:red;">CIKM</span>] [[paper](/files/corr-CIKM25通讯.pdf)] Linlin Zong, Chi Ma, Jiahui Zhou, Xinyue Liu, Wenxin Liang, Xianchao Zhang, Bo Xu. Relational Multi-Path Enhancement for Extrapolative Relation Reasoning in Temporal Knowledge Graph, CIKM 2025. (CCF-B)
 
 [<span style="color:red;">CIKM</span>] [[paper](/files/xu-CIKM25.pdf)] Bo Xu, Yicen Tian, Xiaokun Zhang, Erchen Yu, Dailin Li, Linlin Zong, Hongfei Lin. Reinforcement Learning-Driven Generative Retrieval with Semantic-aligned Multi-Layer Identifiers, CIKM 2025. (CCF-B)
