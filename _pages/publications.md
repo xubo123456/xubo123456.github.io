@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 **2025**
+[<span style="color:red;">CIKM</span>] [[paper](/files/corr-CIKM25通讯.pdf)] Linlin Zong, Chi Ma, Jiahui Zhou, Xinyue Liu, Wenxin Liang, Xianchao Zhang, Bo Xu. Relational Multi-Path Enhancement for Extrapolative Relation Reasoning in Temporal Knowledge Graph, CIKM 2025. (CCF-B)
+
+[<span style="color:red;">CIKM</span>] [[paper](/files/xu-CIKM25.pdf)] Bo Xu, Yicen Tian, Xiaokun Zhang, Erchen Yu, Dailin Li, Linlin Zong, Hongfei Lin. Reinforcement Learning-Driven Generative Retrieval with Semantic-aligned Multi-Layer Identifiers, CIKM 2025. (CCF-B)
+
+[<span style="color:red;">CIKM</span>] [[paper](/files/corr-CIKM 25 short.pdf)] Linlin Zong, Xinyu Zhai, Xinyue Liu, Wenxin Liang, Xianchao Zhang, Bo Xu. Structuring Video Semantics with Temporal Triplets for Zero-Shot Video Question Answering, CIKM 2025. (CCF-B)
 
 [<span style="color:red;">IJCAI</span>] [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3777.pdf)] Bo Xu, Liangzhi Li, Junlong Wang, Xuening Qiao, Erchen Yu, Yiming Qian, Linlin Zong, Hongfei Lin. Unveiling Maternity and Infant Care Conversations: A Chinese Dialogue Dataset for Enhanced Parenting Support, IJCAI 2025. (CCF-A)
 
